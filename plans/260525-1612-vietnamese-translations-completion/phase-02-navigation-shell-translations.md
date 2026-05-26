@@ -1,9 +1,10 @@
 ---
 phase: 2
-status: pending
+status: completed
 priority: high
 effort: M
 blockedBy: [phase-01]
+completedAt: 2026-05-26
 ---
 
 # Phase 2 — Navigation Shell + Modals Translations
@@ -129,17 +130,19 @@ git push origin develop  # hoặc PR branch
 PR target: `develop`.
 
 ## Todo List
-- [ ] Extract empty entries trong scope (polib script)
-- [ ] Generate JSON input cho translator subagent
-- [ ] Spawn subagent translate batch (split nếu > 200)
-- [ ] Apply translations qua polib (preserve formatting)
-- [ ] `msgfmt --check lms/locale/vi.po` exit 0
-- [ ] Manual review msgctxt entries + long strings
-- [ ] Spot-check 20 random entries
-- [ ] Verify placeholders intact (grep)
-- [ ] UI smoke test (Sidebar/Layouts/Modals/CommandPalette/UserDropdown/Toasts)
+- [x] Extract empty entries trong scope (Babel script — 157 entries)
+- [x] Generate JSON input cho translator subagent
+- [x] Spawn subagent translate batch (157, single batch)
+- [x] Apply translations qua Babel (preserve formatting)
+- [x] Validate via `babel.read_po` (msgfmt unavailable in container)
+- [x] Manual review long strings + HTML + newline + placeholders (5+1+2 entries)
+- [x] Spot-check 20 random entries
+- [x] Verify placeholders intact (0 mismatch reported by apply script)
+- [x] Code review via code-reviewer subagent → APPROVE_WITH_CONCERNS
+- [x] Apply M1/M2 fixes: Evaluation→Buổi đánh giá, Review→Nhận xét, Headline→Chức danh
+- [ ] UI smoke test (deferred to post-merge — Phase 8 covers)
 - [ ] Commit `chore: Vietnamese translations - navigation shell + modals`
-- [ ] Create PR vào develop
+- [ ] Create PR vào develop (or direct push to develop per workflow)
 
 ## Success Criteria
 - Toggle VI → Sidebar/Header/Mobile/Modals/CommandPalette/UserDropdown hiển thị tiếng Việt

@@ -1,0 +1,1620 @@
+[
+  {
+    "msgid": "<p>Dear {{ member_name }},</p>\\n\\n<p>You have been enrolled in our upcoming batch {{ batch_name }}.</p>\\n\\n<p>Thanks,</p>\\n<p>Frappe Learning</p>",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:51"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Account ID",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ZoomAccountModal.vue:58",
+      "lms/lms/doctype/lms_zoom_settings/lms_zoom_settings.json:None",
+      "lms/lms/doctype/zoom_settings/zoom_settings.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Account Name",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ZoomAccountModal.vue:33",
+      "frontend/src/components/Settings/GoogleMeetAccountModal.vue:35",
+      "frontend/src/components/Settings/GoogleMeetSettings.vue:198",
+      "frontend/src/components/Settings/ZoomSettings.vue:187",
+      "lms/lms/doctype/lms_google_meet_settings/lms_google_meet_settings.json:None",
+      "lms/lms/doctype/lms_zoom_settings/lms_zoom_settings.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Activate this Zoom account for scheduling meetings.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ZoomAccountModal.vue:26"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add Chapter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CreateOutline.vue:18",
+      "frontend/src/components/Modals/ChapterModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add Existing User as Evaluator",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AddEvaluatorModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add New Member",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/NewMemberModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add a chapter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:599"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add a course to the batch",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/BatchCourseModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add a lesson",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:600"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add a program",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:614"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add an assessment",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssessmentModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add new question",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:165"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add quiz to this video",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/QuizInVideo.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add web page to sidebar",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/PageModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Apply for this job",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/JobApplicationModal.vue:6"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Are you sure you want to clear the demo data? This would delete the course \"A guide  to Frappe Learning\" along with all its associated data. This action cannot be undone.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/UserDropdown.vue:246"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Are you sure you want to login to your Frappe Cloud dashboard?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/UserDropdown.vue:189"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Assessment",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssessmentModal.vue:30",
+      "frontend/src/pages/Batches/components/Assessments.vue:209",
+      "lms/lms/doctype/lms_batch/lms_batch.json:None",
+      "lms/templates/assessments.html:11"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Assessment added successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssessmentModal.vue:95"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Assignment created successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssignmentForm.vue:157"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Assignment updated successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssignmentForm.vue:172"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Attendance for Class - {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassAttendance.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Attended for",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassAttendance.vue:24"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Auto Recording",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:72",
+      "lms/lms/doctype/lms_live_class/lms_live_class.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Available Slots",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EvaluationModal.vue:26"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Average Watch Time (mins)",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/VideoStatistics.vue:77"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Batch",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Event.vue:35",
+      "frontend/src/components/Settings/BadgeForm.vue:192",
+      "frontend/src/components/Settings/Badges.vue:207",
+      "frontend/src/components/Settings/Transactions/TransactionDetails.vue:25",
+      "frontend/src/components/Settings/Transactions/TransactionDetails.vue:290",
+      "frontend/src/pages/Search/Search.vue:235",
+      "lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.json:None",
+      "lms/lms/doctype/lms_batch_feedback/lms_batch_feedback.json:None",
+      "lms/lms/doctype/lms_certificate/lms_certificate.json:None",
+      "lms/lms/doctype/lms_certificate_request/lms_certificate_request.json:None",
+      "lms/lms/doctype/lms_live_class/lms_live_class.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Batch Enrollment Confirmation",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:28"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Book a free onboarding session with the Frappe team",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:186"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Certificate saved successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Event.vue:357"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Chapter added successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ChapterModal.vue:159"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Chapter updated successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ChapterModal.vue:201"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Check Submissions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssignmentForm.vue:61",
+      "frontend/src/pages/QuizForm.vue:39"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Choose an existing question",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:16"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Confirm clearing demo data?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/UserDropdown.vue:245"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Correct Answer",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:77"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssignmentForm.vue:32",
+      "frontend/src/components/Modals/BatchCourseModal.vue:20",
+      "frontend/src/components/Modals/EvaluationModal.vue:21",
+      "frontend/src/components/Modals/Event.vue:24",
+      "frontend/src/components/Settings/BadgeForm.vue:191",
+      "frontend/src/components/Settings/Badges.vue:206",
+      "frontend/src/components/Settings/Transactions/TransactionDetails.vue:24",
+      "frontend/src/components/Settings/Transactions/TransactionDetails.vue:286",
+      "frontend/src/pages/Batches/components/BatchDashboard.vue:129",
+      "frontend/src/pages/Batches/components/BulkCertificates.vue:38",
+      "frontend/src/pages/Programs/ProgramForm.vue:196",
+      "frontend/src/pages/Programs/Programs.vue:41",
+      "frontend/src/pages/Search/Search.vue:233",
+      "lms/lms/doctype/batch_course/batch_course.json:None",
+      "lms/lms/doctype/course_chapter/course_chapter.json:None",
+      "lms/lms/doctype/course_lesson/course_lesson.json:None",
+      "lms/lms/doctype/lms_assignment/lms_assignment.json:None",
+      "lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.json:None",
+      "lms/lms/doctype/lms_certificate/lms_certificate.json:None",
+      "lms/lms/doctype/lms_certificate_evaluation/lms_certificate_evaluation.json:None",
+      "lms/lms/doctype/lms_certificate_request/lms_certificate_request.json:None",
+      "lms/lms/doctype/lms_course_interest/lms_course_interest.json:None",
+      "lms/lms/doctype/lms_course_mentor_mapping/lms_course_mentor_mapping.json:None",
+      "lms/lms/doctype/lms_course_progress/lms_course_progress.json:None",
+      "lms/lms/doctype/lms_course_review/lms_course_review.json:None",
+      "lms/lms/doctype/lms_enrollment/lms_enrollment.json:None",
+      "lms/lms/doctype/lms_lesson_note/lms_lesson_note.json:None",
+      "lms/lms/doctype/lms_program_course/lms_program_course.json:None",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None",
+      "lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json:None",
+      "lms/lms/doctype/lms_video_watch_duration/lms_video_watch_duration.json:None",
+      "lms/lms/doctype/related_courses/related_courses.json:None",
+      "lms/lms/report/course_progress_summary/course_progress_summary.js:9",
+      "lms/lms/report/course_progress_summary/course_progress_summary.py:51",
+      "lms/lms/workspace/learning/learning.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course Creator",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/NewMemberModal.vue:55",
+      "frontend/src/pages/ProfileRoles.vue:27",
+      "lms/lms/doctype/course_chapter/course_chapter.json:None",
+      "lms/lms/doctype/course_evaluator/course_evaluator.json:None",
+      "lms/lms/doctype/course_lesson/course_lesson.json:None",
+      "lms/lms/doctype/lms_assignment/lms_assignment.json:None",
+      "lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.json:None",
+      "lms/lms/doctype/lms_badge_assignment/lms_badge_assignment.json:None",
+      "lms/lms/doctype/lms_category/lms_category.json:None",
+      "lms/lms/doctype/lms_certificate/lms_certificate.json:None",
+      "lms/lms/doctype/lms_certificate_request/lms_certificate_request.json:None",
+      "lms/lms/doctype/lms_coupon/lms_coupon.json:None",
+      "lms/lms/doctype/lms_course/lms_course.json:None",
+      "lms/lms/doctype/lms_course_progress/lms_course_progress.json:None",
+      "lms/lms/doctype/lms_course_review/lms_course_review.json:None",
+      "lms/lms/doctype/lms_enrollment/lms_enrollment.json:None",
+      "lms/lms/doctype/lms_lesson_note/lms_lesson_note.json:None",
+      "lms/lms/doctype/lms_program/lms_program.json:None",
+      "lms/lms/doctype/lms_programming_exercise/lms_programming_exercise.json:None",
+      "lms/lms/doctype/lms_programming_exercise_submission/lms_programming_exercise_submission.json:None",
+      "lms/lms/doctype/lms_question/lms_question.json:None",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None",
+      "lms/lms/doctype/lms_video_watch_duration/lms_video_watch_duration.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course added to batch successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/BatchCourseModal.vue:83"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Create a Live Class",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Create a batch",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:607"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Create a course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:598"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Create a live class",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:608"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Create an Assignment",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssignmentForm.vue:13"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Creating a batch",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:604"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Creating a course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:595"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Custom Certificate Templates",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:631"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Dear {{ member_name }},\\n\\nYou have been enrolled in our upcoming batch {{ batch_name }}.\\n\\nThanks,\\nFrappe Learning",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:67"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Demo data cleared successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/UserDropdown.vue:267"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Desk",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/Apps.vue:50"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Details cannot be empty.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/DiscussionModal.vue:71"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Duration (in minutes)",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:35",
+      "frontend/src/pages/QuizForm.vue:67",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Edit Assignment",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssignmentForm.vue:14"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Edit Chapter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:63",
+      "frontend/src/components/Modals/ChapterModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Edit Email Template",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:8"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Edit Zoom Account",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ZoomAccountModal.vue:6"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Email",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/NewMemberModal.vue:21",
+      "frontend/src/pages/JobApplications.vue:341",
+      "lms/lms/doctype/lms_settings/lms_settings.json:None",
+      "lms/templates/signup-form.html:10"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Email Template created successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:120"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Email Template updated successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:149"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Email is required",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/NewMemberModal.vue:146"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Enable this only if you want to upload a SCORM package as a chapter.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ChapterModal.vue:29"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Enroll a Student",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/StudentModal.vue:5",
+      "frontend/src/pages/Courses/CourseEnrollmentModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Error creating Zoom Account",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ZoomAccountModal.vue:168"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Error creating email template",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:125"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Error updating Zoom Account",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ZoomAccountModal.vue:206"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Error updating email template",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:154"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Evaluation",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Event.vue:424",
+      "frontend/src/pages/Batches/BatchForm.vue:98",
+      "lms/lms/doctype/lms_batch/lms_batch.json:None",
+      "lms/lms/workspace/learning/learning.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Evaluation saved successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Event.vue:296"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Evaluator",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/BatchCourseModal.vue:36",
+      "frontend/src/components/Modals/NewMemberModal.vue:60",
+      "frontend/src/pages/Batches/components/BulkCertificates.vue:22",
+      "frontend/src/pages/Courses/CourseForm.vue:277",
+      "frontend/src/pages/ProfileRoles.vue:34",
+      "lms/lms/doctype/batch_course/batch_course.json:None",
+      "lms/lms/doctype/course_evaluator/course_evaluator.json:None",
+      "lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.json:None",
+      "lms/lms/doctype/lms_certificate/lms_certificate.json:None",
+      "lms/lms/doctype/lms_certificate_evaluation/lms_certificate_evaluation.json:None",
+      "lms/lms/doctype/lms_certificate_request/lms_certificate_request.json:None",
+      "lms/lms/doctype/lms_course/lms_course.json:None",
+      "lms/templates/upcoming_evals.html:33"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Evaluator added successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AddEvaluatorModal.vue:56"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Expiry Date",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Event.vue:153",
+      "frontend/src/pages/Batches/components/BulkCertificates.vue:33",
+      "lms/lms/doctype/lms_certificate/lms_certificate.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Explanation",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:72",
+      "lms/lms/doctype/lms_question/lms_question.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Headline",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EditProfile.vue:47",
+      "lms/fixtures/custom_field.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Image search powered by",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EditCoverImage.vue:58",
+      "frontend/src/components/UnsplashImageBrowser.vue:52"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Issue a Certificate",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:628"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Join Meeting",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Event.vue:84"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Joined at",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassAttendance.vue:18"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Jump to",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CommandPalette/CommandPalette.vue:132",
+      "frontend/src/components/CommandPalette/CommandPalette.vue:229"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Learning Paths",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:612"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Left at",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassAttendance.vue:21"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "LinkedIn ID",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EditProfile.vue:51",
+      "lms/fixtures/custom_field.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Login to Frappe Cloud?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/UserDropdown.vue:188"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Looking for new work or hiring talent?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EditProfile.vue:66"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Make this certificate visible to the participant.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Event.vue:130"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Mark this option as a correct answer.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:78"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Marks",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:37",
+      "frontend/src/components/Modals/Question.vue:104",
+      "frontend/src/components/Quiz.vue:132",
+      "frontend/src/pages/QuizForm.vue:340",
+      "frontend/src/pages/QuizSubmission.vue:64",
+      "lms/lms/doctype/lms_quiz_question/lms_quiz_question.json:None",
+      "lms/lms/doctype/lms_quiz_result/lms_quiz_result.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Member",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassAttendance.vue:14",
+      "frontend/src/components/Modals/VideoStatistics.vue:36",
+      "frontend/src/components/Modals/ZoomAccountModal.vue:45",
+      "frontend/src/components/Settings/BadgeAssignmentForm.vue:26",
+      "frontend/src/components/Settings/BadgeAssignments.vue:179",
+      "frontend/src/components/Settings/BadgeForm.vue:212",
+      "frontend/src/components/Settings/GoogleMeetAccountModal.vue:41",
+      "frontend/src/components/Settings/GoogleMeetSettings.vue:193",
+      "frontend/src/components/Settings/Transactions/TransactionDetails.vue:55",
+      "frontend/src/components/Settings/ZoomSettings.vue:182",
+      "frontend/src/pages/AssignmentSubmissionList.vue:14",
+      "frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:273",
+      "frontend/src/pages/Programs/ProgramProgressSummary.vue:126",
+      "frontend/src/pages/QuizSubmission.vue:31",
+      "frontend/src/pages/QuizSubmissionList.vue:92",
+      "lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.json:None",
+      "lms/lms/doctype/lms_badge_assignment/lms_badge_assignment.json:None",
+      "lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.json:None",
+      "lms/lms/doctype/lms_batch_feedback/lms_batch_feedback.json:None",
+      "lms/lms/doctype/lms_certificate/lms_certificate.json:None",
+      "lms/lms/doctype/lms_certificate_evaluation/lms_certificate_evaluation.json:None",
+      "lms/lms/doctype/lms_certificate_request/lms_certificate_request.json:None",
+      "lms/lms/doctype/lms_course_progress/lms_course_progress.json:None",
+      "lms/lms/doctype/lms_enrollment/lms_enrollment.json:None",
+      "lms/lms/doctype/lms_google_meet_settings/lms_google_meet_settings.json:None",
+      "lms/lms/doctype/lms_lesson_note/lms_lesson_note.json:None",
+      "lms/lms/doctype/lms_live_class_participant/lms_live_class_participant.json:None",
+      "lms/lms/doctype/lms_payment/lms_payment.json:None",
+      "lms/lms/doctype/lms_program_member/lms_program_member.json:None",
+      "lms/lms/doctype/lms_programming_exercise_submission/lms_programming_exercise_submission.json:None",
+      "lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json:None",
+      "lms/lms/doctype/lms_video_watch_duration/lms_video_watch_duration.json:None",
+      "lms/lms/doctype/lms_zoom_settings/lms_zoom_settings.json:None",
+      "lms/lms/report/course_progress_summary/course_progress_summary.py:64"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Member added successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/NewMemberModal.vue:163"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Moderator",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/NewMemberModal.vue:65",
+      "frontend/src/pages/ProfileRoles.vue:41",
+      "lms/lms/doctype/course_chapter/course_chapter.json:None",
+      "lms/lms/doctype/course_evaluator/course_evaluator.json:None",
+      "lms/lms/doctype/course_lesson/course_lesson.json:None",
+      "lms/lms/doctype/lms_assignment/lms_assignment.json:None",
+      "lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.json:None",
+      "lms/lms/doctype/lms_badge/lms_badge.json:None",
+      "lms/lms/doctype/lms_badge_assignment/lms_badge_assignment.json:None",
+      "lms/lms/doctype/lms_batch/lms_batch.json:None",
+      "lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.json:None",
+      "lms/lms/doctype/lms_batch_feedback/lms_batch_feedback.json:None",
+      "lms/lms/doctype/lms_category/lms_category.json:None",
+      "lms/lms/doctype/lms_certificate/lms_certificate.json:None",
+      "lms/lms/doctype/lms_certificate_request/lms_certificate_request.json:None",
+      "lms/lms/doctype/lms_coupon/lms_coupon.json:None",
+      "lms/lms/doctype/lms_course/lms_course.json:None",
+      "lms/lms/doctype/lms_course_progress/lms_course_progress.json:None",
+      "lms/lms/doctype/lms_course_review/lms_course_review.json:None",
+      "lms/lms/doctype/lms_enrollment/lms_enrollment.json:None",
+      "lms/lms/doctype/lms_google_meet_settings/lms_google_meet_settings.json:None",
+      "lms/lms/doctype/lms_lesson_note/lms_lesson_note.json:None",
+      "lms/lms/doctype/lms_live_class/lms_live_class.json:None",
+      "lms/lms/doctype/lms_live_class_participant/lms_live_class_participant.json:None",
+      "lms/lms/doctype/lms_payment/lms_payment.json:None",
+      "lms/lms/doctype/lms_program/lms_program.json:None",
+      "lms/lms/doctype/lms_programming_exercise/lms_programming_exercise.json:None",
+      "lms/lms/doctype/lms_programming_exercise_submission/lms_programming_exercise_submission.json:None",
+      "lms/lms/doctype/lms_question/lms_question.json:None",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None",
+      "lms/lms/doctype/lms_settings/lms_settings.json:None",
+      "lms/lms/doctype/lms_source/lms_source.json:None",
+      "lms/lms/doctype/lms_timetable_template/lms_timetable_template.json:None",
+      "lms/lms/doctype/lms_video_watch_duration/lms_video_watch_duration.json:None",
+      "lms/lms/doctype/lms_zoom_settings/lms_zoom_settings.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Monetization",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:636"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "New Email Template",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:7"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "New Zoom Account",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ZoomAccountModal.vue:6"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "No quizzes added yet.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/QuizInVideo.vue:93"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "No slots available for the selected course.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EvaluationModal.vue:62"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "No statistics available for this video.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/VideoStatistics.vue:92"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "No {0} Found",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Layouts/EmptyStateLayout.vue:36"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Only zip files are allowed",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ChapterModal.vue:223"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Open to",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EditProfile.vue:65",
+      "lms/fixtures/custom_field.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Page deleted successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:423"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please enter a title.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:194"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please enter a valid time in the format HH:mm.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:206"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please enter a valid timestamp",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/QuizInVideo.vue:181"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please fill the mandatory fields: {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EditProfile.vue:153"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a course to view available slots.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EvaluationModal.vue:59"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a date.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:197"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a duration.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:221"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a future date and time.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:218"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a quiz",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/QuizInVideo.vue:186"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a slot for your evaluation.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EvaluationModal.vue:106"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a time.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:200"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a timezone.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:203"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a user",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AddEvaluatorModal.vue:45"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please upload a SCORM package",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ChapterModal.vue:180"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Possibilities",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:59"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Possibility",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:89"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Profile Image",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EditProfile.vue:32",
+      "frontend/src/components/Modals/EditProfile.vue:150"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Question added successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:283"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Question updated successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:333"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Quiz",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/QuizInVideo.vue:21",
+      "frontend/src/components/Modals/QuizInVideo.vue:216",
+      "frontend/src/pages/Batches/components/Assessments.vue:244",
+      "frontend/src/pages/QuizSubmission.vue:26",
+      "frontend/src/utils/quiz.js:27",
+      "lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json:None",
+      "lms/lms/workspace/learning/learning.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Quizzes in this video",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/QuizInVideo.vue:35"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Review",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ReviewModal.vue:20",
+      "lms/lms/doctype/lms_course_review/lms_course_review.json:None",
+      "lms/lms/workspace/learning/learning.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "SCORM Package",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ChapterModal.vue:27",
+      "lms/lms/doctype/course_chapter/course_chapter.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Schedule your evaluation",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EvaluationModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Search by Member",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/VideoStatistics.vue:20",
+      "frontend/src/pages/Programs/ProgramProgressSummary.vue:46"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Search for ",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CommandPalette/CommandPalette.vue:135"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Select User",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AddEvaluatorModal.vue:18"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Select a question",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:99"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Select from questions you have already created",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/Question.vue:17"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Setting up",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:591"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Setting up payment gateway",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:641"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Submission Type",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AssignmentForm.vue:27"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Submit your resume to proceed with your application for this position. Upon submission, it will be shared with the job poster.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/JobApplicationModal.vue:23"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "There are no {0} currently. Keep an eye out, fresh learning experiences are on the way!",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Layouts/EmptyStateLayout.vue:42"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "This site is being updated. You will not be able to make any changes. Full access will be restored shortly.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Sidebar/AppSidebar.vue:91",
+      "frontend/src/components/Sidebar/AppSidebar.vue:177"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Time in Video",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/QuizInVideo.vue:13"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Time in Video (minutes)",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/QuizInVideo.vue:220"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Time in video exceeds the total duration of the video.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/QuizInVideo.vue:173"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Time must be in 24 hour format (HH:mm). Example 11:30 or 22:00",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:42"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Timezone",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassModal.vue:57",
+      "frontend/src/pages/Batches/BatchForm.vue:71",
+      "frontend/src/pages/Batches/components/NewBatchModal.vue:44",
+      "frontend/src/pages/Courses/CourseForm.vue:289",
+      "lms/lms/doctype/lms_batch/lms_batch.json:None",
+      "lms/lms/doctype/lms_certificate_request/lms_certificate_request.json:None",
+      "lms/lms/doctype/lms_course/lms_course.json:None",
+      "lms/lms/doctype/lms_live_class/lms_live_class.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Title cannot be empty.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/DiscussionModal.vue:67"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Title is required",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ChapterModal.vue:177"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Training Feedback",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/FeedbackModal.vue:11"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Twitter ID",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EditProfile.vue:56",
+      "lms/fixtures/custom_field.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Unable to add evaluator",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/AddEvaluatorModal.vue:60"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Unable to add member",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/NewMemberModal.vue:168"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Unsplash",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EditCoverImage.vue:60",
+      "frontend/src/components/UnsplashImageBrowser.vue:54"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Use HTML content for the email response",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:39"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Video Statistics",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/VideoStatistics.vue:6"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "View Certificate",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CertificationLinks.vue:10",
+      "frontend/src/components/Modals/Event.vue:73"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Watch Time (mins)",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/VideoStatistics.vue:39"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Web page added to sidebar",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/PageModal.vue:81"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Write a Review",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseReviews.vue:8",
+      "frontend/src/components/Modals/ReviewModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Your enrollment in {{ batch_name }} is confirmed",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/EmailTemplateModal.vue:35"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Zoom Account created successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ZoomAccountModal.vue:163"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Zoom Account updated successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/ZoomAccountModal.vue:201"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "minutes",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Modals/LiveClassAttendance.vue:57"
+    ],
+    "flags": []
+  }
+]
