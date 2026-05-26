@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning VERSION\n"
 "Report-Msgid-Bugs-To: jannat@frappe.io\n"
-"POT-Creation-Date: 2026-05-15 16:35+0000\n"
-"PO-Revision-Date: 2026-05-15 16:35+0000\n"
+"POT-Creation-Date: 2026-05-26 03:48+0000\n"
+"PO-Revision-Date: 2026-05-26 03:48+0000\n"
 "Last-Translator: jannat@frappe.io\n"
 "Language-Team: jannat@frappe.io\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgstr ""
 msgid "A course cannot have both paid certificate and certificate of completion."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:217
+#: lms/lms/doctype/lms_batch/lms_batch.py:218
 msgid "A new batch '{0}' has been published that might interest you. Check it out!"
 msgstr ""
 
@@ -100,7 +100,7 @@ msgstr ""
 msgid "A new course has been published on "
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:179
+#: lms/lms/doctype/lms_batch/lms_batch.py:180
 #: lms/lms/doctype/lms_course/lms_course.py:172
 msgid "A new course has been published on {0}"
 msgstr ""
@@ -229,7 +229,7 @@ msgstr ""
 msgid "Add a Lesson"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:597
+#: frontend/src/components/Sidebar/AppSidebar.vue:599
 msgid "Add a chapter"
 msgstr ""
 
@@ -241,11 +241,11 @@ msgstr ""
 msgid "Add a keyword and press enter"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:598
+#: frontend/src/components/Sidebar/AppSidebar.vue:600
 msgid "Add a lesson"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:612
+#: frontend/src/components/Sidebar/AppSidebar.vue:614
 msgid "Add a program"
 msgstr ""
 
@@ -269,7 +269,7 @@ msgstr ""
 msgid "Add at least one possible answer for this question: {0}"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:561
+#: frontend/src/components/Sidebar/AppSidebar.vue:563
 msgid "Add courses to your batch"
 msgstr ""
 
@@ -293,7 +293,7 @@ msgstr ""
 msgid "Add quiz to this video"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:540
+#: frontend/src/components/Sidebar/AppSidebar.vue:542
 msgid "Add students to your batch"
 msgstr ""
 
@@ -305,11 +305,11 @@ msgstr ""
 msgid "Add web page to sidebar"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:468
+#: frontend/src/components/Sidebar/AppSidebar.vue:470
 msgid "Add your first chapter"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:488
+#: frontend/src/components/Sidebar/AppSidebar.vue:490
 msgid "Add your first lesson"
 msgstr ""
 
@@ -425,7 +425,7 @@ msgstr ""
 msgid "Amount (USD)"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:78
+#: lms/lms/doctype/lms_batch/lms_batch.py:79
 msgid "Amount and currency are required for paid batches."
 msgstr ""
 
@@ -491,7 +491,7 @@ msgstr ""
 msgid "Applications"
 msgstr ""
 
-#: frontend/src/pages/JobApplications.vue:341
+#: frontend/src/pages/JobApplications.vue:347
 msgid "Applied On"
 msgstr ""
 
@@ -581,12 +581,12 @@ msgstr ""
 msgid "Assessment added successfully"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:86
+#: lms/lms/doctype/lms_batch/lms_batch.py:87
 msgid "Assessment {0} has already been added to this batch."
 msgstr ""
 
 #. Label of the show_assessments (Check) field in DocType 'LMS Settings'
-#: frontend/src/components/Sidebar/AppSidebar.vue:615
+#: frontend/src/components/Sidebar/AppSidebar.vue:617
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:22
 #: frontend/src/pages/Batches/components/Assessments.vue:5
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -674,7 +674,7 @@ msgid "Assignment will appear at the bottom of the lesson."
 msgstr ""
 
 #: frontend/src/components/Settings/Badges.vue:170
-#: frontend/src/components/Sidebar/AppSidebar.vue:619
+#: frontend/src/components/Sidebar/AppSidebar.vue:621
 #: frontend/src/pages/Assignments.vue:307
 #: frontend/src/pages/Assignments.vue:314 lms/www/_lms.py:280
 msgid "Assignments"
@@ -945,19 +945,19 @@ msgstr ""
 msgid "Batch deleted successfully"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:51
+#: lms/lms/doctype/lms_batch/lms_batch.py:52
 msgid "Batch end date cannot be before the batch start date"
 msgstr ""
 
-#: lms/lms/api.py:193
+#: lms/lms/api.py:195
 msgid "Batch has already started."
 msgstr ""
 
-#: lms/lms/api.py:188
+#: lms/lms/api.py:190
 msgid "Batch is sold out."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:56
+#: lms/lms/doctype/lms_batch/lms_batch.py:57
 msgid "Batch start time cannot be greater than or equal to end time."
 msgstr ""
 
@@ -1069,7 +1069,7 @@ msgstr ""
 msgid "Cancelled"
 msgstr ""
 
-#: lms/lms/api.py:2378
+#: lms/lms/api.py:2406
 msgid "Cannot search for roles: {0}"
 msgstr ""
 
@@ -1165,7 +1165,7 @@ msgstr ""
 #. Label of a Card Break in the Learning Workspace
 #. Label of a Link in the Learning Workspace
 #: frontend/src/components/Modals/Event.vue:431
-#: frontend/src/components/Sidebar/AppSidebar.vue:623
+#: frontend/src/components/Sidebar/AppSidebar.vue:625
 #: frontend/src/pages/Batches/BatchForm.vue:91
 #: frontend/src/pages/Batches/BatchForm.vue:113
 #: frontend/src/pages/Batches/Batches.vue:84
@@ -1418,7 +1418,7 @@ msgstr ""
 msgid "Collaboration Preference"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:213
+#: frontend/src/components/Sidebar/AppSidebar.vue:214
 msgid "Collapse"
 msgstr ""
 
@@ -1968,7 +1968,7 @@ msgstr ""
 msgid "Course updated successfully"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:63
+#: lms/lms/doctype/lms_batch/lms_batch.py:64
 msgid "Course {0} has already been added to this batch."
 msgstr ""
 
@@ -2075,15 +2075,15 @@ msgstr ""
 msgid "Create a Quiz"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:605
+#: frontend/src/components/Sidebar/AppSidebar.vue:607
 msgid "Create a batch"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:596
+#: frontend/src/components/Sidebar/AppSidebar.vue:598
 msgid "Create a course"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:606
+#: frontend/src/components/Sidebar/AppSidebar.vue:608
 msgid "Create a live class"
 msgstr ""
 
@@ -2095,15 +2095,15 @@ msgstr ""
 msgid "Create an Assignment"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:530
+#: frontend/src/components/Sidebar/AppSidebar.vue:532
 msgid "Create your first batch"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:456
+#: frontend/src/components/Sidebar/AppSidebar.vue:458
 msgid "Create your first course"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:508
+#: frontend/src/components/Sidebar/AppSidebar.vue:510
 msgid "Create your first quiz"
 msgstr ""
 
@@ -2111,11 +2111,11 @@ msgstr ""
 msgid "Created"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:602
+#: frontend/src/components/Sidebar/AppSidebar.vue:604
 msgid "Creating a batch"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:593
+#: frontend/src/components/Sidebar/AppSidebar.vue:595
 msgid "Creating a course"
 msgstr ""
 
@@ -2144,7 +2144,7 @@ msgstr ""
 msgid "Curriculum"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:629
+#: frontend/src/components/Sidebar/AppSidebar.vue:631
 msgid "Custom Certificate Templates"
 msgstr ""
 
@@ -2303,7 +2303,7 @@ msgstr ""
 msgid "Deleting this lesson will permanently remove it from the course. This action cannot be undone. Are you sure you want to continue?"
 msgstr ""
 
-#: lms/lms/api.py:796
+#: lms/lms/api.py:824
 msgid "Deletion not allowed for {0}"
 msgstr ""
 
@@ -2561,7 +2561,7 @@ msgstr ""
 #. Option for the 'Send Notification for Published Batches' (Select) field in
 #. DocType 'LMS Settings'
 #: frontend/src/components/Modals/NewMemberModal.vue:21
-#: frontend/src/pages/JobApplications.vue:335
+#: frontend/src/pages/JobApplications.vue:341
 #: lms/lms/doctype/lms_settings/lms_settings.json
 #: lms/templates/signup-form.html:10
 msgid "Email"
@@ -2598,7 +2598,7 @@ msgid "Email is required"
 msgstr ""
 
 #: frontend/src/components/ContactUsEmail.vue:57
-#: frontend/src/pages/JobApplications.vue:295
+#: frontend/src/pages/JobApplications.vue:301
 msgid "Email sent successfully"
 msgstr ""
 
@@ -2813,11 +2813,15 @@ msgstr ""
 msgid "Error creating badge"
 msgstr ""
 
+#: frontend/src/pages/Batches/components/NewBatchModal.vue:218
+msgid "Error creating batch"
+msgstr ""
+
 #: frontend/src/components/Modals/EmailTemplateModal.vue:125
 msgid "Error creating email template"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:288
+#: lms/lms/doctype/lms_batch/lms_batch.py:289
 msgid "Error creating live class. Please try again. {0}"
 msgstr ""
 
@@ -2893,7 +2897,7 @@ msgstr ""
 msgid "Evaluation cancelled successfully"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:91
+#: lms/lms/doctype/lms_batch/lms_batch.py:92
 msgid "Evaluation end date cannot be less than the batch end date."
 msgstr ""
 
@@ -2990,7 +2994,7 @@ msgstr ""
 msgid "Existing User"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:213
+#: frontend/src/components/Sidebar/AppSidebar.vue:214
 msgid "Expand"
 msgstr ""
 
@@ -3253,7 +3257,7 @@ msgstr ""
 
 #. Label of the full_name (Data) field in DocType 'Course Evaluator'
 #. Label of the full_name (Data) field in DocType 'LMS Program Member'
-#: frontend/src/pages/JobApplications.vue:329
+#: frontend/src/pages/JobApplications.vue:335
 #: lms/lms/doctype/course_evaluator/course_evaluator.json
 #: lms/lms/doctype/lms_program_member/lms_program_member.json
 #: lms/templates/signup-form.html:5
@@ -3771,8 +3775,8 @@ msgstr ""
 msgid "Interest"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:585
-#: frontend/src/components/Sidebar/AppSidebar.vue:588
+#: frontend/src/components/Sidebar/AppSidebar.vue:587
+#: frontend/src/components/Sidebar/AppSidebar.vue:590
 msgid "Introduction"
 msgstr ""
 
@@ -3792,19 +3796,19 @@ msgstr ""
 msgid "Invalid course ZIP: Missing course.json"
 msgstr ""
 
-#: lms/lms/api.py:1050
+#: lms/lms/api.py:1078
 msgid "Invalid course or chapter name"
 msgstr ""
 
-#: lms/lms/api.py:799
+#: lms/lms/api.py:827
 msgid "Invalid document name"
 msgstr ""
 
-#: lms/lms/api.py:1057
+#: lms/lms/api.py:1085
 msgid "Invalid file path in package"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:519
+#: frontend/src/components/Sidebar/AppSidebar.vue:521
 msgid "Invite your team and students"
 msgstr ""
 
@@ -3841,7 +3845,7 @@ msgstr ""
 msgid "Issue Date"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:626
+#: frontend/src/components/Sidebar/AppSidebar.vue:628
 msgid "Issue a Certificate"
 msgstr ""
 
@@ -4272,7 +4276,7 @@ msgstr ""
 msgid "Learning Consistency"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:610
+#: frontend/src/components/Sidebar/AppSidebar.vue:612
 msgid "Learning Paths"
 msgstr ""
 
@@ -4822,7 +4826,7 @@ msgstr ""
 msgid "Message"
 msgstr ""
 
-#: frontend/src/pages/JobApplications.vue:291
+#: frontend/src/pages/JobApplications.vue:297
 msgid "Message is required"
 msgstr ""
 
@@ -4853,7 +4857,7 @@ msgstr ""
 msgid "Meta Tags"
 msgstr ""
 
-#: lms/lms/api.py:1592
+#: lms/lms/api.py:1620
 msgid "Meta tags should be a list."
 msgstr ""
 
@@ -4913,11 +4917,11 @@ msgstr ""
 msgid "Modified By"
 msgstr ""
 
-#: lms/lms/api.py:170
+#: lms/lms/api.py:172
 msgid "Module Name is incorrect or does not exist."
 msgstr ""
 
-#: lms/lms/api.py:166
+#: lms/lms/api.py:168
 msgid "Module is incorrect."
 msgstr ""
 
@@ -4928,7 +4932,7 @@ msgstr ""
 msgid "Monday"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:634
+#: frontend/src/components/Sidebar/AppSidebar.vue:636
 msgid "Monetization"
 msgstr ""
 
@@ -5291,7 +5295,7 @@ msgstr ""
 
 #. Option for the 'Medium' (Select) field in DocType 'LMS Batch'
 #: frontend/src/pages/Batches/BatchForm.vue:545
-#: frontend/src/pages/Batches/components/NewBatchModal.vue:256
+#: frontend/src/pages/Batches/components/NewBatchModal.vue:257
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Offline"
 msgstr ""
@@ -5320,7 +5324,7 @@ msgstr ""
 
 #. Option for the 'Medium' (Select) field in DocType 'LMS Batch'
 #: frontend/src/pages/Batches/BatchForm.vue:541
-#: frontend/src/pages/Batches/components/NewBatchModal.vue:252
+#: frontend/src/pages/Batches/components/NewBatchModal.vue:253
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Online"
 msgstr ""
@@ -5508,7 +5512,7 @@ msgstr ""
 msgid "PDF"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:421
+#: frontend/src/components/Sidebar/AppSidebar.vue:423
 msgid "Page deleted successfully"
 msgstr ""
 
@@ -5751,11 +5755,11 @@ msgstr ""
 msgid "Please complete the previous course to unlock this one."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:306
+#: lms/lms/doctype/lms_batch/lms_batch.py:307
 msgid "Please enable the Google Meet account to use this feature."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:337
+#: lms/lms/doctype/lms_batch/lms_batch.py:338
 msgid "Please enable the zoom account to use this feature."
 msgstr ""
 
@@ -5803,7 +5807,7 @@ msgstr ""
 msgid "Please fill the mandatory fields: {0}"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:71
+#: lms/lms/doctype/lms_batch/lms_batch.py:72
 msgid "Please install the Payments App to create a paid batch. Refer to the documentation for more details. {0}"
 msgstr ""
 
@@ -5819,7 +5823,7 @@ msgstr ""
 msgid "Please login to access the quiz."
 msgstr ""
 
-#: lms/lms/api.py:162
+#: lms/lms/api.py:164
 msgid "Please login to continue with payment."
 msgstr ""
 
@@ -5860,11 +5864,11 @@ msgstr ""
 msgid "Please run the code to execute the test cases."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:136
+#: lms/lms/doctype/lms_batch/lms_batch.py:137
 msgid "Please select a Google Meet account for this batch."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:153
+#: lms/lms/doctype/lms_batch/lms_batch.py:154
 msgid "Please select a Zoom account for this batch."
 msgstr ""
 
@@ -6182,6 +6186,10 @@ msgstr ""
 msgid "Progress Summary for {0}"
 msgstr ""
 
+#: lms/lms/doctype/lms_course_progress/lms_course_progress.py:19
+msgid "Progress is already recorded for this lesson."
+msgstr ""
+
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:132
 msgid "Progress of students in courses and assessments"
 msgstr ""
@@ -6358,7 +6366,7 @@ msgstr ""
 msgid "Quiz will appear at the bottom of the lesson."
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:618
+#: frontend/src/components/Sidebar/AppSidebar.vue:620
 #: frontend/src/pages/QuizForm.vue:388 frontend/src/pages/Quizzes.vue:345
 #: frontend/src/pages/Quizzes.vue:355 lms/www/_lms.py:258
 msgid "Quizzes"
@@ -6533,7 +6541,7 @@ msgid "Role updated successfully"
 msgstr ""
 
 #: frontend/src/components/Modals/NewMemberModal.vue:45
-#: frontend/src/components/Sidebar/AppSidebar.vue:646
+#: frontend/src/components/Sidebar/AppSidebar.vue:648
 #: frontend/src/pages/Profile.vue:272
 msgid "Roles"
 msgstr ""
@@ -6543,19 +6551,19 @@ msgstr ""
 msgid "Route"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:128
+#: lms/lms/doctype/lms_batch/lms_batch.py:129
 msgid "Row #{0} Date cannot be outside the batch duration."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:124
+#: lms/lms/doctype/lms_batch/lms_batch.py:125
 msgid "Row #{0} End time cannot be outside the batch duration."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:108
+#: lms/lms/doctype/lms_batch/lms_batch.py:109
 msgid "Row #{0} Start time cannot be greater than or equal to end time."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:117
+#: lms/lms/doctype/lms_batch/lms_batch.py:118
 msgid "Row #{0} Start time cannot be outside the batch duration."
 msgstr ""
 
@@ -6736,7 +6744,7 @@ msgstr ""
 msgid "Seat Left"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:95
+#: lms/lms/doctype/lms_batch/lms_batch.py:96
 msgid "Seat count cannot be negative."
 msgstr ""
 
@@ -6802,7 +6810,7 @@ msgstr ""
 msgid "Send Confirmation Email"
 msgstr ""
 
-#: frontend/src/pages/JobApplications.vue:319
+#: frontend/src/pages/JobApplications.vue:325
 msgid "Send Email"
 msgstr ""
 
@@ -6860,16 +6868,16 @@ msgstr ""
 msgid "Set your Password"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:589
+#: frontend/src/components/Sidebar/AppSidebar.vue:591
 msgid "Setting up"
 msgstr ""
 
-#: frontend/src/components/Sidebar/AppSidebar.vue:639
+#: frontend/src/components/Sidebar/AppSidebar.vue:641
 msgid "Setting up payment gateway"
 msgstr ""
 
 #: frontend/src/components/Settings/Settings.vue:9
-#: frontend/src/components/Sidebar/AppSidebar.vue:644
+#: frontend/src/components/Sidebar/AppSidebar.vue:646
 #: frontend/src/pages/Courses/CourseDetail.vue:121
 #: frontend/src/pages/ProfileRoles.vue:4
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:19
@@ -7196,7 +7204,7 @@ msgid "Subject"
 msgstr ""
 
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:98
-#: frontend/src/pages/JobApplications.vue:288
+#: frontend/src/pages/JobApplications.vue:294
 msgid "Subject is required"
 msgstr ""
 
@@ -7263,7 +7271,7 @@ msgstr ""
 msgid "Sunday"
 msgstr ""
 
-#: lms/lms/api.py:1083
+#: lms/lms/api.py:1111
 msgid "Suspicious pattern found in {0}: {1}"
 msgstr ""
 
@@ -7399,7 +7407,7 @@ msgstr ""
 msgid "Thanks and Regards"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:310
+#: lms/lms/doctype/lms_batch/lms_batch.py:311
 msgid "The Google Meet account does not have a Google Calendar configured. Please set up a Google Calendar first."
 msgstr ""
 
@@ -7439,11 +7447,11 @@ msgstr ""
 msgid "The lesson does not exist."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:148
+#: lms/lms/doctype/lms_batch/lms_batch.py:149
 msgid "The selected Google Meet account does not have a Google Calendar configured."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:141
+#: lms/lms/doctype/lms_batch/lms_batch.py:142
 msgid "The selected Google Meet account is disabled. Please enable it or select another account."
 msgstr ""
 
@@ -7467,7 +7475,7 @@ msgstr ""
 msgid "There are no courses currently. Create your first course to get started!"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:99
+#: lms/lms/doctype/lms_batch/lms_batch.py:100
 #: lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.py:74
 msgid "There are no seats available in this batch."
 msgstr ""
@@ -8027,7 +8035,7 @@ msgstr ""
 msgid "User Skill"
 msgstr ""
 
-#: lms/lms/api.py:1836
+#: lms/lms/api.py:1864
 msgid "User does not have permission to access this user's profile details."
 msgstr ""
 
@@ -8082,7 +8090,7 @@ msgstr ""
 msgid "View Certificate"
 msgstr ""
 
-#: frontend/src/pages/JobApplications.vue:313
+#: frontend/src/pages/JobApplications.vue:319
 msgid "View Resume"
 msgstr ""
 
@@ -8231,11 +8239,11 @@ msgstr ""
 msgid "You are already certified for this course. Click on the card below to open your certificate."
 msgstr ""
 
-#: lms/lms/api.py:182
+#: lms/lms/api.py:184
 msgid "You are already enrolled for this batch."
 msgstr ""
 
-#: lms/lms/api.py:176
+#: lms/lms/api.py:178
 msgid "You are already enrolled for this course."
 msgstr ""
 
@@ -8336,27 +8344,27 @@ msgstr ""
 msgid "You do not have access to this course."
 msgstr ""
 
-#: lms/lms/api.py:894 lms/lms/doctype/lms_batch/lms_batch.py:365
+#: lms/lms/api.py:922 lms/lms/doctype/lms_batch/lms_batch.py:366
 msgid "You do not have permission to access announcements for this batch."
 msgstr ""
 
-#: lms/lms/api.py:2335
+#: lms/lms/api.py:2363
 msgid "You do not have permission to access badges."
 msgstr ""
 
-#: lms/lms/api.py:1195
+#: lms/lms/api.py:1223
 msgid "You do not have permission to access heatmap data."
 msgstr ""
 
-#: lms/lms/api.py:2174
+#: lms/lms/api.py:2202
 msgid "You do not have permission to access lesson completion stats."
 msgstr ""
 
-#: lms/lms/api.py:2214
+#: lms/lms/api.py:2242
 msgid "You do not have permission to access this course's assessment data."
 msgstr ""
 
-#: lms/lms/api.py:1737
+#: lms/lms/api.py:1765
 msgid "You do not have permission to access this course's progress data."
 msgstr ""
 
@@ -8364,43 +8372,43 @@ msgstr ""
 msgid "You do not have permission to access this page."
 msgstr ""
 
-#: lms/lms/api.py:1412 lms/lms/api.py:1421
+#: lms/lms/api.py:1440 lms/lms/api.py:1449
 msgid "You do not have permission to cancel this evaluation."
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:245
+#: lms/lms/doctype/lms_batch/lms_batch.py:246
 msgid "You do not have permission to create a live class."
 msgstr ""
 
-#: lms/lms/api.py:964
+#: lms/lms/api.py:992
 msgid "You do not have permission to delete this batch."
 msgstr ""
 
-#: lms/lms/api.py:1149
+#: lms/lms/api.py:1177
 msgid "You do not have permission to delete this chapter."
 msgstr ""
 
-#: lms/lms/api.py:924
+#: lms/lms/api.py:952
 msgid "You do not have permission to delete this course."
 msgstr ""
 
-#: lms/lms/api.py:553
+#: lms/lms/api.py:581
 msgid "You do not have permission to delete this lesson."
 msgstr ""
 
-#: lms/lms/api.py:2415
+#: lms/lms/api.py:2443
 msgid "You do not have permission to export this course."
 msgstr ""
 
-#: lms/lms/api.py:636 lms/lms/api.py:1012
+#: lms/lms/api.py:664 lms/lms/api.py:1040
 msgid "You do not have permission to modify this chapter."
 msgstr ""
 
-#: lms/lms/api.py:573
+#: lms/lms/api.py:601
 msgid "You do not have permission to modify this lesson."
 msgstr ""
 
-#: lms/lms/api.py:1481
+#: lms/lms/api.py:1509
 msgid "You do not have permission to modify this role."
 msgstr ""
 
@@ -8412,11 +8420,11 @@ msgstr ""
 msgid "You do not have permission to set up calendar events for this evaluation."
 msgstr ""
 
-#: lms/lms/api.py:1620 lms/lms/api.py:1624
+#: lms/lms/api.py:1648 lms/lms/api.py:1652
 msgid "You do not have permission to update meta tags."
 msgstr ""
 
-#: lms/lms/api.py:1661
+#: lms/lms/api.py:1689
 msgid "You do not have permission to update this submission."
 msgstr ""
 
@@ -8441,7 +8449,7 @@ msgstr ""
 msgid "You have already exceeded the maximum number of attempts allowed for this quiz."
 msgstr ""
 
-#: lms/lms/api.py:206
+#: lms/lms/api.py:208
 msgid "You have already purchased the certificate for this course."
 msgstr ""
 
@@ -8557,7 +8565,7 @@ msgstr ""
 msgid "Your Output"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:459
+#: lms/lms/doctype/lms_batch/lms_batch.py:460
 msgid "Your batch {0} is starting tomorrow"
 msgstr ""
 
@@ -8856,7 +8864,7 @@ msgstr ""
 msgid "{0} Quizzes"
 msgstr ""
 
-#: lms/lms/api.py:815 lms/lms/api.py:823
+#: lms/lms/api.py:843 lms/lms/api.py:851
 msgid "{0} Settings not found"
 msgstr ""
 
@@ -8868,7 +8876,7 @@ msgstr ""
 msgid "{0} has applied for the job position {1}"
 msgstr ""
 
-#: lms/lms/doctype/lms_batch/lms_batch.py:214
+#: lms/lms/doctype/lms_batch/lms_batch.py:215
 msgid "{0} has published a new batch {1}"
 msgstr ""
 
@@ -8912,7 +8920,7 @@ msgstr ""
 msgid "{0} mentioned you in a comment in {1}"
 msgstr ""
 
-#: lms/lms/api.py:877
+#: lms/lms/api.py:905
 msgid "{0} not found"
 msgstr ""
 

@@ -39,7 +39,7 @@ const currentLang = computed(() => {
 	if (isLoggedIn.value && userResource?.data?.language) {
 		return userResource.data.language
 	}
-	return localStorage.getItem('lms_lang') || 'vi'
+	return localStorage.getItem('lms_lang') || 'en'
 })
 
 async function setLang(newLang) {

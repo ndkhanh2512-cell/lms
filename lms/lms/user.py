@@ -23,6 +23,11 @@ def add_lms_student_role(doc, method):
 	doc.append_roles("LMS Student")
 
 
+def set_default_language(doc, method):
+	if not doc.language:
+		doc.language = "en"
+
+
 @frappe.whitelist(allow_guest=True)  # nosemgrep: frappe-semgrep-rules.rules.security.guest-whitelisted-method
 def sign_up(email: str, full_name: str, verify_terms: bool, user_category: str):
 	if is_signup_disabled():
