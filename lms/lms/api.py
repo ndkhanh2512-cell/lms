@@ -55,7 +55,7 @@ def get_user_info():
 	user = frappe.db.get_value(
 		"User",
 		frappe.session.user,
-		["name", "email", "enabled", "user_image", "full_name", "user_type", "username", "bio", "headline"],
+		["name", "email", "enabled", "user_image", "full_name", "user_type", "username", "bio", "headline", "language"],
 		as_dict=1,
 	)
 	user["roles"] = frappe.get_roles(user.name)
@@ -73,8 +73,10 @@ def get_user_info():
 
 
 @frappe.whitelist(allow_guest=True)
-def get_translations():
-	if frappe.session.user != "Guest":
+def get_translations(lang: str | None = None):
+	if lang:
+		language = lang
+	elif frappe.session.user != "Guest":
 		language = frappe.db.get_value("User", frappe.session.user, "language")
 	else:
 		language = frappe.db.get_single_value("System Settings", "language")

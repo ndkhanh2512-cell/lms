@@ -26,6 +26,13 @@
 					/>
 					<div>{{ link.label }}</div>
 				</div>
+				<div class="flex items-center gap-x-2 pt-2 border-t border-outline-gray-2">
+					<component
+						:is="icons['Languages']"
+						class="h-4 w-4 stroke-1.5 text-ink-gray-5"
+					/>
+					<LanguageToggle />
+				</div>
 			</div>
 
 			<!-- Fixed menu -->
@@ -65,6 +72,7 @@ import { sessionStore } from '@/stores/session'
 import { useSettings } from '@/stores/settings'
 import { usersStore } from '@/stores/user'
 import * as icons from 'lucide-vue-next'
+import LanguageToggle from '@/components/LanguageToggle.vue'
 
 const { logout, user } = sessionStore()
 let { isLoggedIn } = sessionStore()

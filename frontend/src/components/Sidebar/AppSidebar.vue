@@ -207,6 +207,7 @@
 							@click="redirectToWebsite()"
 						/>
 					</Tooltip>
+					<LanguageToggle v-if="!sidebarStore.isSidebarCollapsed" />
 				</div>
 				<Tooltip
 					:text="
@@ -305,6 +306,7 @@ import UserDropdown from '@/components/Sidebar/UserDropdown.vue'
 import CollapseSidebar from '@/components/Icons/CollapseSidebar.vue'
 import SidebarLink from '@/components/Sidebar/SidebarLink.vue'
 import CommandPalette from '@/components/CommandPalette/CommandPalette.vue'
+import LanguageToggle from '@/components/LanguageToggle.vue'
 
 const { user } = sessionStore()
 const { userResource } = usersStore()

@@ -3,7 +3,10 @@ import { createResource } from 'frappe-ui'
 export default function translationPlugin(app) {
 	app.config.globalProperties.__ = translate
 	window.__ = translate
-	if (!window.translatedMessages) fetchTranslations()
+	if (!window.translatedMessages) {
+		const guestLang = localStorage.getItem('lms_lang') || undefined
+		fetchTranslations(guestLang)
+	}
 }
 
 function translate(message) {
@@ -31,7 +34,8 @@ function translate(message) {
 function fetchTranslations(lang) {
 	createResource({
 		url: 'lms.lms.api.get_translations',
-		cache: 'translations',
+		params: lang ? { lang } : {},
+		cache: ['translations', lang || 'default'],
 		auto: true,
 		transform: (data) => {
 			window.translatedMessages = data
