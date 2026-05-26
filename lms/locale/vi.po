@@ -32,7 +32,7 @@ msgstr " đến "
 
 #: frontend/src/pages/Home/Streak.vue:21
 msgid " you are on a"
-msgstr ""
+msgstr " bạn đang đạt"
 
 #. Paragraph text in the Learning Workspace
 #: lms/lms/workspace/learning/learning.json
@@ -105,7 +105,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseForm.vue:166
 msgid "A one line introduction to the course that appears on the course card"
-msgstr ""
+msgstr "Một câu giới thiệu ngắn về khóa học hiển thị trên thẻ khóa học"
 
 #: frontend/src/pages/Profile.vue:268 frontend/src/pages/ProfileAbout.vue:4
 msgid "About"
@@ -113,7 +113,7 @@ msgstr "Giới thiệu về"
 
 #: frontend/src/pages/Courses/CourseForm.vue:158
 msgid "About the Course"
-msgstr ""
+msgstr "Giới thiệu về khóa học"
 
 #. Label of the verify_terms (Check) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -188,7 +188,7 @@ msgstr "Thêm người dùng hiện có làm người đánh giá"
 
 #: frontend/src/components/CourseOutline.vue:163
 msgid "Add Lesson"
-msgstr ""
+msgstr "Thêm bài học"
 
 #: frontend/src/components/Modals/NewMemberModal.vue:5
 msgid "Add New Member"
@@ -196,7 +196,7 @@ msgstr "Thêm thành viên mới"
 
 #: frontend/src/pages/QuizForm.vue:205
 msgid "Add Question"
-msgstr ""
+msgstr "Thêm câu hỏi"
 
 #: frontend/src/components/VideoBlock.vue:126
 msgid "Add Quiz to Video"
@@ -237,7 +237,7 @@ msgstr "Thêm khóa học vào lớp học"
 
 #: frontend/src/pages/Courses/CourseForm.vue:71
 msgid "Add a keyword and press enter"
-msgstr ""
+msgstr "Thêm từ khóa và nhấn enter"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:600
 msgid "Add a lesson"
@@ -346,7 +346,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/Courses.vue:37 lms/lms/widgets/BreadCrumb.html:3
 msgid "All Courses"
-msgstr ""
+msgstr "Tất cả khóa học"
 
 #: frontend/src/pages/Programs/StudentPrograms.vue:5
 msgid "All Programs"
@@ -371,7 +371,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:147
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Allow Self Enrollment"
-msgstr ""
+msgstr "Cho phép tự đăng ký"
 
 #. Label of the allow_future (Check) field in DocType 'LMS Batch'
 #: lms/lms/doctype/lms_batch/lms_batch.json
@@ -388,11 +388,11 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseForm.vue:149
 msgid "Allow users to enroll in this course on their own."
-msgstr ""
+msgstr "Cho phép người dùng tự đăng ký khóa học này."
 
 #: frontend/src/pages/QuizForm.vue:102
 msgid "Allow users to view their past quiz attempts."
-msgstr ""
+msgstr "Cho phép người dùng xem các lượt làm bài kiểm tra trước đây của họ."
 
 #: lms/lms/user.py:34
 msgid "Already Registered"
@@ -414,7 +414,7 @@ msgstr "Màu vàng cam"
 #: lms/lms/doctype/lms_course/lms_course.json
 #: lms/lms/doctype/lms_payment/lms_payment.json
 msgid "Amount"
-msgstr ""
+msgstr "Số tiền"
 
 #. Label of the amount_usd (Currency) field in DocType 'LMS Batch'
 #. Label of the amount_usd (Currency) field in DocType 'LMS Course'
@@ -464,7 +464,7 @@ msgstr "Thông báo"
 #: lms/lms/doctype/lms_assignment/lms_assignment.json
 #: lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.json
 msgid "Answer"
-msgstr ""
+msgstr "Câu trả lời"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:72
 msgid "Applicable For"
@@ -546,7 +546,7 @@ msgstr "Bạn có chắc muốn đăng nhập vào trang tổng quan Frappe Clou
 
 #: frontend/src/components/Quiz.vue:395
 msgid "Are you sure you want to submit the quiz?"
-msgstr ""
+msgstr "Bạn có chắc muốn nộp bài kiểm tra?"
 
 #: frontend/src/pages/Batches/components/BatchDashboard.vue:11
 msgid "As a part of this batch's curriculum you will have to complete the following courses and assessments."
@@ -554,7 +554,7 @@ msgstr ""
 
 #: frontend/src/pages/Lesson.vue:289
 msgid "Ask a question to get help from the community."
-msgstr ""
+msgstr "Đặt câu hỏi để nhận trợ giúp từ cộng đồng."
 
 #. Label of the assessment_tab (Tab Break) field in DocType 'LMS Batch'
 #. Label of the assessment (Table) field in DocType 'LMS Batch'
@@ -633,7 +633,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:111
 msgid "Assignment Progress"
-msgstr ""
+msgstr "Tiến độ bài tập"
 
 #: frontend/src/components/Settings/BadgeForm.vue:195
 #: frontend/src/components/Settings/Badges.vue:211
@@ -642,7 +642,7 @@ msgstr ""
 
 #: frontend/src/pages/AssignmentSubmissionList.vue:223
 msgid "Assignment Submissions"
-msgstr ""
+msgstr "Bài nộp bài tập"
 
 #. Label of the assignment_title (Data) field in DocType 'LMS Assignment
 #. Submission'
@@ -660,7 +660,7 @@ msgstr ""
 
 #: frontend/src/components/Assignment.vue:329
 msgid "Assignment submitted successfully"
-msgstr ""
+msgstr "Đã gửi bài tập thành công"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:172
 msgid "Assignment updated successfully"
@@ -680,7 +680,7 @@ msgstr "Nhiệm vụ được giao"
 
 #: frontend/src/pages/Assignments.vue:302
 msgid "Assignments deleted successfully"
-msgstr ""
+msgstr "Đã xóa nhiệm vụ được giao thành công"
 
 #: lms/lms/doctype/lms_coupon/lms_coupon.py:27
 msgid "At least one applicable item is required"
@@ -696,7 +696,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:422
 msgid "Attempted Questions"
-msgstr ""
+msgstr "Câu hỏi đã làm"
 
 #: frontend/src/components/Modals/LiveClassAttendance.vue:5
 msgid "Attendance for Class - {0}"
@@ -736,7 +736,7 @@ msgstr "Khung giờ khả dụng"
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:9
 msgid "Average Completion Rate"
-msgstr ""
+msgstr "Tỷ lệ hoàn thành trung bình"
 
 #: frontend/src/pages/Batches/components/BatchFeedback.vue:12
 msgid "Average Feedback Received"
@@ -751,7 +751,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseOverview.vue:14
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:76
 msgid "Average Rating"
-msgstr ""
+msgstr "Đánh giá trung bình"
 
 #: frontend/src/components/Modals/VideoStatistics.vue:77
 msgid "Average Watch Time (mins)"
@@ -1045,7 +1045,7 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:54
 msgid "Buy this course"
-msgstr ""
+msgstr "Mua khóa học này"
 
 #: lms/templates/emails/lms_message.html:11
 msgid "By"
@@ -1136,7 +1136,7 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:130
 msgid "Certificate of Completion"
-msgstr ""
+msgstr "Chứng chỉ hoàn thành"
 
 #: frontend/src/components/Modals/Event.vue:357
 msgid "Certificate saved successfully"
@@ -1231,7 +1231,7 @@ msgstr "Thay đổi"
 
 #: frontend/src/components/Assignment.vue:366
 msgid "Changes saved successfully"
-msgstr ""
+msgstr "Đã lưu thay đổi thành công"
 
 #. Label of the chapter (Link) field in DocType 'Chapter Reference'
 #. Label of the chapter (Link) field in DocType 'LMS Course Progress'
@@ -1255,11 +1255,11 @@ msgstr "Thêm chương thành công"
 
 #: frontend/src/components/CourseOutline.vue:376
 msgid "Chapter deleted successfully"
-msgstr ""
+msgstr "Đã xóa chương thành công"
 
 #: frontend/src/components/CourseOutline.vue:309
 msgid "Chapter moved successfully"
-msgstr ""
+msgstr "Đã di chuyển chương thành công"
 
 #: frontend/src/components/Modals/ChapterModal.vue:201
 msgid "Chapter updated successfully"
@@ -1269,7 +1269,7 @@ msgstr "Cập nhật chương thành công"
 #: frontend/src/pages/Courses/CourseForm.vue:325
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Chapters"
-msgstr ""
+msgstr "Chương"
 
 #: frontend/src/pages/Batches/BatchForm.vue:231
 msgid "Charge a fee for batch enrollment."
@@ -1277,11 +1277,11 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseForm.vue:229
 msgid "Charge a fee for course access."
-msgstr ""
+msgstr "Tính phí truy cập khóa học."
 
 #: frontend/src/pages/Courses/CourseForm.vue:243
 msgid "Charge a fee for the certificate."
-msgstr ""
+msgstr "Tính phí cho chứng chỉ."
 
 #: frontend/src/components/Quiz.vue:286
 msgid "Check"
@@ -1329,7 +1329,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:883
 msgid "Choose all answers that apply"
-msgstr ""
+msgstr "Chọn tất cả các câu trả lời phù hợp"
 
 #: frontend/src/components/Modals/Question.vue:16
 msgid "Choose an existing question"
@@ -1341,7 +1341,7 @@ msgstr "Chọn một biểu tượng"
 
 #: frontend/src/components/Quiz.vue:884
 msgid "Choose one answer"
-msgstr ""
+msgstr "Chọn một câu trả lời"
 
 #. Label of the city (Data) field in DocType 'User'
 #. Label of the location (Data) field in DocType 'Job Opportunity'
@@ -1441,7 +1441,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseForm.vue:314
 msgid "Comma separated keywords for SEO"
-msgstr ""
+msgstr "Các từ khóa cho SEO, phân cách bằng dấu phẩy"
 
 #. Label of the comments (Text Editor) field in DocType 'LMS Assignment
 #. Submission'
@@ -1452,7 +1452,7 @@ msgstr "Bình luận"
 
 #: frontend/src/components/Assignment.vue:160
 msgid "Comments by Evaluator"
-msgstr ""
+msgstr "Nhận xét của người đánh giá"
 
 #. Description of the 'Meta Keywords' (Small Text) field in DocType 'LMS
 #. Settings'
@@ -1462,7 +1462,7 @@ msgstr ""
 
 #: frontend/src/pages/Lesson.vue:944
 msgid "Community"
-msgstr ""
+msgstr "Cộng đồng"
 
 #: frontend/src/pages/PersonaForm.vue:104
 msgid "Community Manager"
@@ -1560,11 +1560,11 @@ msgstr "Đã hoàn thành"
 #: frontend/src/pages/Courses/CourseForm.vue:235
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Completion Certificate"
-msgstr ""
+msgstr "Chứng chỉ hoàn thành"
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:415
 msgid "Completion Rate"
-msgstr ""
+msgstr "Tỷ lệ hoàn thành"
 
 #. Label of the condition (Code) field in DocType 'LMS Badge'
 #: frontend/src/components/Settings/BadgeForm.vue:62
@@ -1663,7 +1663,7 @@ msgstr "Hãy liên hệ với Quản trị viên để đăng ký khóa học n�
 
 #: frontend/src/pages/Lesson.vue:97
 msgid "Contact the Administrator to enroll for this course."
-msgstr ""
+msgstr "Liên hệ với quản trị viên để đăng ký khóa học này."
 
 #. Label of the content (Text) field in DocType 'Course Lesson'
 #. Label of the content (Rating) field in DocType 'LMS Batch Feedback'
@@ -1677,7 +1677,7 @@ msgstr "Nội dung"
 
 #: frontend/src/components/CourseCardOverlay.vue:33
 msgid "Continue Learning"
-msgstr ""
+msgstr "Tiếp tục học"
 
 #. Option for the 'Type' (Select) field in DocType 'Job Opportunity'
 #. Option in a Select field in the job-opportunity Web Form
@@ -1694,7 +1694,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:203
 msgid "Correct"
-msgstr ""
+msgstr "Đúng"
 
 #: frontend/src/components/Modals/Question.vue:77
 msgid "Correct Answer"
@@ -1858,7 +1858,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:175
 #: frontend/src/pages/Courses/NewCourseModal.vue:52
 msgid "Course Description"
-msgstr ""
+msgstr "Mô tả khóa học"
 
 #: frontend/src/components/Settings/BadgeForm.vue:200
 #: frontend/src/components/Settings/Badges.vue:208
@@ -1877,7 +1877,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:83
 #: frontend/src/pages/Courses/NewCourseModal.vue:38
 msgid "Course Image"
-msgstr ""
+msgstr "Ảnh khóa học"
 
 #. Name of a DocType
 #: lms/lms/doctype/course_instructor/course_instructor.json
@@ -1899,11 +1899,11 @@ msgstr "Tên khóa học"
 
 #: frontend/src/pages/Courses/CourseOverview.vue:70
 msgid "Course Outline"
-msgstr ""
+msgstr "Đại cương khóa học"
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:32
 msgid "Course Progress"
-msgstr ""
+msgstr "Tiến độ khóa học"
 
 #. Name of a report
 #: lms/lms/report/course_progress_summary/course_progress_summary.json
@@ -1952,11 +1952,11 @@ msgstr ""
 
 #: frontend/src/pages/Courses/NewCourseModal.vue:154
 msgid "Course created successfully"
-msgstr ""
+msgstr "Đã tạo khóa học thành công"
 
 #: frontend/src/pages/Courses/CourseForm.vue:517
 msgid "Course deleted successfully"
-msgstr ""
+msgstr "Đã xóa khóa học thành công"
 
 #: lms/lms/doctype/lms_certificate/lms_certificate.py:69
 msgid "Course or Batch is required to issue a certificate."
@@ -1964,7 +1964,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseForm.vue:482
 msgid "Course updated successfully"
-msgstr ""
+msgstr "Đã cập nhật khóa học thành công"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:64
 msgid "Course {0} has already been added to this batch."
@@ -2041,11 +2041,11 @@ msgstr ""
 
 #: frontend/src/pages/Home/AdminHome.vue:191
 msgid "Create Course"
-msgstr ""
+msgstr "Tạo khóa học"
 
 #: frontend/src/pages/LessonForm.vue:509
 msgid "Create Lesson"
-msgstr ""
+msgstr "Tạo bài học"
 
 #: frontend/src/components/Controls/Link.vue:69
 #: frontend/src/components/Controls/Link.vue:74
@@ -2071,7 +2071,7 @@ msgstr "Tạo lớp học trực tiếp"
 
 #: frontend/src/pages/Quizzes.vue:120
 msgid "Create a Quiz"
-msgstr ""
+msgstr "Tạo bài kiểm tra"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:607
 msgid "Create a batch"
@@ -2136,7 +2136,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:34
 msgid "Current Streak"
-msgstr ""
+msgstr "Chuỗi hiện tại"
 
 #: frontend/src/pages/Batches/components/BatchDashboard.vue:7
 msgid "Curriculum"
@@ -2229,7 +2229,7 @@ msgstr "Kính gửi {{ member_name }},\\n\\nBạn đã được đăng ký vào 
 
 #: frontend/src/pages/QuizForm.vue:125
 msgid "Deduct marks for incorrect answers."
-msgstr ""
+msgstr "Trừ điểm cho câu trả lời sai."
 
 #. Label of the default_currency (Link) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -2259,11 +2259,11 @@ msgstr "Đã cập nhật giá trị mặc định"
 
 #: frontend/src/components/CourseOutline.vue:70
 msgid "Delete Chapter"
-msgstr ""
+msgstr "Xóa chương"
 
 #: frontend/src/pages/Courses/CourseForm.vue:524
 msgid "Delete Course"
-msgstr ""
+msgstr "Xóa khóa học"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:561
 msgid "Delete Program"
@@ -2271,7 +2271,7 @@ msgstr ""
 
 #: frontend/src/components/CourseOutline.vue:382
 msgid "Delete this chapter?"
-msgstr ""
+msgstr "Xóa chương này?"
 
 #: frontend/src/components/Settings/Coupons/CouponList.vue:131
 msgid "Delete this coupon?"
@@ -2279,11 +2279,11 @@ msgstr ""
 
 #: frontend/src/components/CourseOutline.vue:315
 msgid "Delete this lesson?"
-msgstr ""
+msgstr "Xóa bài học này?"
 
 #: frontend/src/pages/Courses/CourseForm.vue:525
 msgid "Deleting the course will also delete all its chapters and lessons. Are you sure you want to delete this course?"
-msgstr ""
+msgstr "Xóa khóa học cũng sẽ xóa tất cả chương và bài học của khóa học. Bạn có chắc muốn xóa khóa học này?"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:248
 msgid "Deleting these exercises will permanently remove them from the system, along with all associated submissions. This action is irreversible. Are you sure you want to proceed?"
@@ -2295,11 +2295,11 @@ msgstr ""
 
 #: frontend/src/components/CourseOutline.vue:383
 msgid "Deleting this chapter will also delete all its lessons and permanently remove it from the course. This action cannot be undone. Are you sure you want to continue?"
-msgstr ""
+msgstr "Xóa chương này cũng sẽ xóa tất cả bài học và xóa vĩnh viễn khỏi khóa học. Hành động này không thể hoàn tác. Bạn có chắc muốn tiếp tục?"
 
 #: frontend/src/components/CourseOutline.vue:316
 msgid "Deleting this lesson will permanently remove it from the course. This action cannot be undone. Are you sure you want to continue?"
-msgstr ""
+msgstr "Xóa bài học này sẽ xóa vĩnh viễn khỏi khóa học. Hành động này không thể hoàn tác. Bạn có chắc muốn tiếp tục?"
 
 #: lms/lms/api.py:824
 msgid "Deletion not allowed for {0}"
@@ -2354,7 +2354,7 @@ msgstr "Chi tiết không được để trống."
 
 #: frontend/src/pages/Courses/CourseImportModal.vue:33
 msgid "Device"
-msgstr ""
+msgstr "Thiết bị"
 
 #. Label of the disable_pwa (Check) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -2414,11 +2414,11 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:95
 msgid "Display correct answers after each question is attempted."
-msgstr ""
+msgstr "Hiển thị câu trả lời đúng sau khi mỗi câu hỏi được làm."
 
 #: frontend/src/components/Quiz.vue:19
 msgid "Do not refresh the page or close this window. If you do, the quiz will be submitted automatically."
-msgstr ""
+msgstr "Không tải lại trang hoặc đóng cửa sổ này. Nếu bạn làm vậy, bài kiểm tra sẽ tự động được nộp."
 
 #. Option for the 'File Type' (Select) field in DocType 'Course Lesson'
 #. Option for the 'Type' (Select) field in DocType 'LMS Assignment'
@@ -2443,7 +2443,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseImportModal.vue:28
 msgid "Drag and drop a ZIP file, or upload from your"
-msgstr ""
+msgstr "Kéo và thả tệp ZIP, hoặc tải lên từ"
 
 #. Label of the dream_companies (Data) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -2512,7 +2512,7 @@ msgstr ""
 
 #: frontend/src/pages/LessonForm.vue:508
 msgid "Edit Lesson"
-msgstr ""
+msgstr "Chỉnh sửa bài học"
 
 #: frontend/src/components/Settings/PaymentGatewayDetails.vue:13
 msgid "Edit Payment Gateway"
@@ -2533,7 +2533,7 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:205
 msgid "Edit Question"
-msgstr ""
+msgstr "Chỉnh sửa câu hỏi"
 
 #: frontend/src/components/Modals/ZoomAccountModal.vue:6
 msgid "Edit Zoom Account"
@@ -2621,7 +2621,7 @@ msgstr ""
 #. Label of the enable_negative_marking (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:124 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Enable Negative Marking"
-msgstr ""
+msgstr "Bật trừ điểm"
 
 #: frontend/src/pages/Batches/BatchForm.vue:99
 msgid "Enable evaluations for batch participants."
@@ -2688,7 +2688,7 @@ msgstr ""
 #: frontend/src/pages/Home/AdminHome.vue:100
 #: frontend/src/pages/Home/StudentHome.vue:65
 msgid "Ended"
-msgstr ""
+msgstr "Đã kết thúc"
 
 #. Label of the enforce_course_order (Check) field in DocType 'LMS Program'
 #: frontend/src/pages/Programs/ProgramForm.vue:39
@@ -2700,7 +2700,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseDashboard.vue:38
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:47
 msgid "Enroll"
-msgstr ""
+msgstr "Đăng ký"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:177
 msgid "Enroll Member to Program"
@@ -2730,13 +2730,13 @@ msgstr "Đã đăng ký"
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:265
 #: frontend/src/pages/Courses/CourseDashboard.vue:399
 msgid "Enrolled On"
-msgstr ""
+msgstr "Đã đăng ký vào"
 
 #: frontend/src/components/CourseCard.vue:62
 #: frontend/src/pages/Courses/CourseOverview.vue:27
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:69
 msgid "Enrolled Students"
-msgstr ""
+msgstr "Học viên đã đăng ký"
 
 #: frontend/src/pages/Batches/BatchForm.vue:168
 msgid "Enrollment Confirmation Email Template"
@@ -2784,7 +2784,7 @@ msgstr ""
 
 #: frontend/src/components/Assignment.vue:127
 msgid "Enter a URL"
-msgstr ""
+msgstr "Nhập URL"
 
 #: frontend/src/pages/JobApplications.vue:139
 msgid "Enter email subject"
@@ -2824,7 +2824,7 @@ msgstr ""
 
 #: frontend/src/pages/Quizzes.vue:282
 msgid "Error creating quiz: {0}"
-msgstr ""
+msgstr "Lỗi khi tạo bài kiểm tra: {0}"
 
 #: frontend/src/components/Settings/GoogleMeetSettings.vue:185
 msgid "Error deleting Google Meet Account"
@@ -3046,7 +3046,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDetail.vue:206
 msgid "Export"
-msgstr ""
+msgstr "Xuất"
 
 #. Option for the 'Status' (Select) field in DocType 'LMS Assignment
 #. Submission'
@@ -3109,7 +3109,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:140
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Featured"
-msgstr ""
+msgstr "Nổi bật"
 
 #. Label of the feedback (Small Text) field in DocType 'LMS Batch Feedback'
 #: frontend/src/pages/Batches/components/BatchFeedback.vue:6
@@ -3120,7 +3120,7 @@ msgstr "Phản hồi"
 
 #: frontend/src/components/Assignment.vue:68
 msgid "Feel free to make edits to your submission if needed."
-msgstr ""
+msgstr "Bạn có thể chỉnh sửa bài nộp nếu cần."
 
 #. Label of the field_to_check (Select) field in DocType 'LMS Badge'
 #: lms/lms/doctype/lms_badge/lms_badge.json
@@ -3144,7 +3144,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseImportModal.vue:150
 #: frontend/src/pages/Courses/CourseImportModal.vue:166
 msgid "File upload failed. Please try again."
-msgstr ""
+msgstr "Tải tệp lên thất bại. Vui lòng thử lại."
 
 #: frontend/src/components/AssessmentPlugin.vue:55
 msgid "Filter assignments by course"
@@ -3310,14 +3310,14 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:90
 msgid "Get Certificate"
-msgstr ""
+msgstr "Nhận chứng chỉ"
 
 #: frontend/src/components/CertificationLinks.vue:34
 #: frontend/src/components/CertificationLinks.vue:50
 #: frontend/src/components/CourseCard.vue:126
 #: frontend/src/pages/CertifiedParticipants.vue:12
 msgid "Get Certified"
-msgstr ""
+msgstr "Được chứng nhận"
 
 #: lms/templates/onboarding_header.html:8
 msgid "Get Started"
@@ -3392,7 +3392,7 @@ msgstr ""
 #: frontend/src/components/Assignment.vue:176
 #: lms/lms/doctype/education_detail/education_detail.json
 msgid "Grade"
-msgstr ""
+msgstr "Điểm"
 
 #. Label of the grade_assignment (Check) field in DocType 'LMS Assignment'
 #: lms/lms/doctype/lms_assignment/lms_assignment.json
@@ -3406,7 +3406,7 @@ msgstr ""
 
 #: frontend/src/components/Assignment.vue:171
 msgid "Grading"
-msgstr ""
+msgstr "Chấm điểm"
 
 #: frontend/src/components/Settings/BadgeForm.vue:43
 #: frontend/src/components/Settings/Badges.vue:242
@@ -3510,7 +3510,7 @@ msgstr "Đánh dấu"
 
 #: frontend/src/pages/Courses/CourseForm.vue:141
 msgid "Highlight the course on the homepage."
-msgstr ""
+msgstr "Làm nổi bật khóa học trên trang chủ."
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:110
 msgid "Highlight what makes you unique and show your skills."
@@ -3582,11 +3582,11 @@ msgstr ""
 
 #: frontend/src/pages/LessonForm.vue:30
 msgid "If enabled, the lesson will also be accessible to users who are not enrolled in the course."
-msgstr ""
+msgstr "Nếu được bật, bài học cũng sẽ có thể truy cập được cho người dùng chưa đăng ký khóa học."
 
 #: frontend/src/components/Quiz.vue:61
 msgid "If you answer incorrectly, {0} {1} will be deducted from your score for each incorrect answer."
-msgstr ""
+msgstr "Nếu bạn trả lời sai, {0} {1} sẽ bị trừ khỏi điểm số của bạn cho mỗi câu trả lời sai."
 
 #: lms/templates/emails/mentor_request_creation_email.html:5
 msgid "If you are not any more interested to mentor the course"
@@ -3594,7 +3594,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:38
 msgid "If you fail to do so, the quiz will be automatically submitted when the timer ends."
-msgstr ""
+msgstr "Nếu bạn không làm vậy, bài kiểm tra sẽ tự động được nộp khi hết giờ."
 
 #: lms/templates/emails/payment_reminder.html:19
 msgid "If you have any questions or need assistance, feel free to reach out to our support team."
@@ -3648,15 +3648,15 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseImportModal.vue:5
 msgid "Import Course from ZIP"
-msgstr ""
+msgstr "Nhập khóa học từ ZIP"
 
 #: frontend/src/pages/Courses/Courses.vue:353
 msgid "Import via Data Import Tool"
-msgstr ""
+msgstr "Nhập qua Công cụ nhập dữ liệu"
 
 #: frontend/src/pages/Courses/Courses.vue:363
 msgid "Import via ZIP"
-msgstr ""
+msgstr "Nhập qua ZIP"
 
 #. Option for the 'Status' (Select) field in DocType 'LMS Certificate
 #. Evaluation'
@@ -3681,7 +3681,7 @@ msgstr ""
 
 #: frontend/src/pages/LessonForm.vue:28
 msgid "Include in Preview"
-msgstr ""
+msgstr "Bao gồm trong bản xem trước"
 
 #. Option for the 'Status' (Select) field in DocType 'LMS Course Progress'
 #: lms/lms/doctype/lms_course_progress/lms_course_progress.json
@@ -3690,7 +3690,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:208
 msgid "Incorrect"
-msgstr ""
+msgstr "Sai"
 
 #. Option for the 'Collaboration Preference' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -3742,11 +3742,11 @@ msgstr ""
 #: frontend/src/pages/Lesson.vue:233 frontend/src/pages/LessonForm.vue:47
 #: lms/lms/doctype/course_lesson/course_lesson.json
 msgid "Instructor Notes"
-msgstr ""
+msgstr "Ghi chú của giảng viên"
 
 #: frontend/src/components/LessonHelp.vue:11
 msgid "Instructor Notes are private notes that only instructors can see. They can be used to provide additional context or guidance for the lesson."
-msgstr ""
+msgstr "Ghi chú của giảng viên là ghi chú riêng tư mà chỉ giảng viên có thể xem. Chúng có thể được dùng để cung cấp thêm ngữ cảnh hoặc hướng dẫn cho bài học."
 
 #. Label of the instructors (Table MultiSelect) field in DocType 'LMS Batch'
 #. Label of the instructors (Rating) field in DocType 'LMS Batch Feedback'
@@ -3846,7 +3846,7 @@ msgstr "Cấp chứng chỉ"
 
 #: frontend/src/pages/Courses/CourseForm.vue:236
 msgid "Issue a certificate on course completion."
-msgstr ""
+msgstr "Cấp chứng chỉ khi hoàn thành khóa học."
 
 #: frontend/src/pages/Batches/BatchForm.vue:114
 msgid "Issue certificates to batch participants."
@@ -3858,7 +3858,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseCertification.vue:27
 #: lms/lms/doctype/lms_badge_assignment/lms_badge_assignment.json
 msgid "Issued On"
-msgstr ""
+msgstr "Cấp vào"
 
 #: frontend/src/pages/ProfileAbout.vue:75
 #: frontend/src/pages/ProfileCertificates.vue:20
@@ -3958,7 +3958,7 @@ msgstr "Chuyển đến"
 
 #: frontend/src/pages/Home/Streak.vue:18
 msgid "Keep going,"
-msgstr ""
+msgstr "Tiếp tục nào,"
 
 #. Name of a DocType
 #: lms/lms/doctype/lms_assessment/lms_assessment.json
@@ -4269,7 +4269,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:5
 msgid "Learning Consistency"
-msgstr ""
+msgstr "Tính nhất quán trong học tập"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:612
 msgid "Learning Paths"
@@ -4306,15 +4306,15 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:207
 msgid "Lesson Completion"
-msgstr ""
+msgstr "Hoàn thành bài học"
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:408
 msgid "Lesson Index"
-msgstr ""
+msgstr "Chỉ mục bài học"
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:45
 msgid "Lesson Progress"
-msgstr ""
+msgstr "Tiến độ bài học"
 
 #. Name of a DocType
 #: lms/lms/doctype/lesson_reference/lesson_reference.json
@@ -4328,19 +4328,19 @@ msgstr ""
 
 #: frontend/src/pages/LessonForm.vue:434
 msgid "Lesson created successfully"
-msgstr ""
+msgstr "Đã tạo bài học thành công"
 
 #: frontend/src/components/CourseOutline.vue:280
 msgid "Lesson deleted successfully"
-msgstr ""
+msgstr "Đã xóa bài học thành công"
 
 #: frontend/src/components/CourseOutline.vue:295
 msgid "Lesson moved successfully"
-msgstr ""
+msgstr "Đã di chuyển bài học thành công"
 
 #: frontend/src/pages/LessonForm.vue:458
 msgid "Lesson updated successfully"
-msgstr ""
+msgstr "Đã cập nhật bài học thành công"
 
 #. Label of the lessons (Table) field in DocType 'Course Chapter'
 #. Group in Course Chapter's connections
@@ -4351,7 +4351,7 @@ msgstr ""
 #: lms/lms/doctype/course_chapter/course_chapter.json
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Lessons"
-msgstr ""
+msgstr "Bài học"
 
 #: lms/lms/web_template/lms_statistics/lms_statistics.html:14
 #: lms/templates/statistics.html:36
@@ -4370,7 +4370,7 @@ msgstr ""
 #. Label of the limit_questions_to (Int) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:117 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Limit Questions To"
-msgstr ""
+msgstr "Giới hạn số câu hỏi"
 
 #: lms/lms/doctype/lms_quiz/lms_quiz.py:40
 msgid "Limit cannot be greater than or equal to the number of questions in the quiz."
@@ -4388,7 +4388,7 @@ msgstr "ID LinkedIn"
 
 #: frontend/src/pages/Courses/Courses.vue:318
 msgid "Live"
-msgstr ""
+msgstr "Trực tiếp"
 
 #. Label of the live_class (Link) field in DocType 'LMS Live Class Participant'
 #. Label of the show_live_class (Check) field in DocType 'LMS Settings'
@@ -4459,7 +4459,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:42
 msgid "Longest Streak"
-msgstr ""
+msgstr "Chuỗi dài nhất"
 
 #: frontend/src/components/Modals/EditProfile.vue:66
 msgid "Looking for new work or hiring talent?"
@@ -4489,7 +4489,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseForm.vue:115
 msgid "Make the course visible to all users."
-msgstr ""
+msgstr "Hiển thị khóa học cho tất cả người dùng."
 
 #: frontend/src/components/Modals/Event.vue:130
 msgid "Make this certificate visible to the participant."
@@ -4520,7 +4520,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:132
 msgid "Mark"
-msgstr ""
+msgstr "Điểm"
 
 #: frontend/src/pages/Notifications.vue:12
 msgid "Mark all as read"
@@ -4528,11 +4528,11 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:228
 msgid "Mark for review"
-msgstr ""
+msgstr "Đánh dấu để xem lại"
 
 #: frontend/src/pages/Courses/CourseForm.vue:131
 msgid "Mark the course as upcoming but not yet open for enrollment."
-msgstr ""
+msgstr "Đánh dấu khóa học là sắp diễn ra nhưng chưa mở đăng ký."
 
 #: frontend/src/components/Modals/Question.vue:78
 msgid "Mark this option as a correct answer."
@@ -4562,20 +4562,20 @@ msgstr ""
 #: frontend/src/pages/QuizSubmission.vue:67
 #: lms/lms/doctype/lms_quiz_result/lms_quiz_result.json
 msgid "Marks out of"
-msgstr ""
+msgstr "Điểm trên"
 
 #: frontend/src/pages/QuizForm.vue:130
 msgid "Marks to Deduct"
-msgstr ""
+msgstr "Điểm bị trừ"
 
 #. Label of the max_attempts (Int) field in DocType 'LMS Quiz'
 #: frontend/src/pages/Quizzes.vue:319 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Max Attempts"
-msgstr ""
+msgstr "Lượt làm bài tối đa"
 
 #: frontend/src/pages/QuizForm.vue:62
 msgid "Maximum Attempts"
-msgstr ""
+msgstr "Lượt làm bài tối đa"
 
 #. Label of the medium (Select) field in DocType 'LMS Batch'
 #: frontend/src/pages/Batches/BatchForm.vue:162
@@ -4828,7 +4828,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:304
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Meta Description"
-msgstr ""
+msgstr "Mô tả Meta"
 
 #. Label of the meta_image (Attach Image) field in DocType 'LMS Batch'
 #. Label of the meta_image (Attach Image) field in DocType 'LMS Settings'
@@ -4843,12 +4843,12 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:311
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Meta Keywords"
-msgstr ""
+msgstr "Từ khóa Meta"
 
 #: frontend/src/pages/Batches/BatchForm.vue:253
 #: frontend/src/pages/Courses/CourseForm.vue:299
 msgid "Meta Tags"
-msgstr ""
+msgstr "Thẻ Meta"
 
 #: lms/lms/api.py:1620
 msgid "Meta tags should be a list."
@@ -4940,11 +4940,11 @@ msgstr ""
 
 #: frontend/src/pages/Home/StudentHome.vue:112
 msgid "My Batches"
-msgstr ""
+msgstr "Lớp học của tôi"
 
 #: frontend/src/pages/Home/StudentHome.vue:80
 msgid "My Courses"
-msgstr ""
+msgstr "Khóa học của tôi"
 
 #: frontend/src/components/Notes/Notes.vue:3
 msgid "My Notes"
@@ -4998,7 +4998,7 @@ msgstr ""
 #: frontend/src/pages/Courses/NewCourseModal.vue:5
 #: frontend/src/pages/Notifications.vue:91 lms/www/_lms.py:102
 msgid "New Course"
-msgstr ""
+msgstr "Khóa học mới"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:7
 msgid "New Email Template"
@@ -5022,7 +5022,7 @@ msgstr ""
 
 #: frontend/src/pages/LessonForm.vue:526
 msgid "New Lesson"
-msgstr ""
+msgstr "Bài học mới"
 
 #: frontend/src/components/Settings/PaymentGatewayDetails.vue:12
 msgid "New Payment Gateway"
@@ -5030,7 +5030,7 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:145
 msgid "New Question"
-msgstr ""
+msgstr "Câu hỏi mới"
 
 #: lms/www/new-sign-up.html:3
 msgid "New Sign Up"
@@ -5072,7 +5072,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:386
 msgid "No Quiz submissions found"
-msgstr ""
+msgstr "Không tìm thấy bài nộp bài kiểm tra"
 
 #. Option for the 'Auto Recording' (Select) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
@@ -5119,7 +5119,7 @@ msgstr ""
 #: frontend/src/pages/Home/AdminHome.vue:172
 #: lms/templates/courses_created.html:14
 msgid "No courses created"
-msgstr ""
+msgstr "Chưa có khóa học nào được tạo"
 
 #: lms/templates/courses_under_review.html:14
 msgid "No courses under review"
@@ -5151,7 +5151,7 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:196
 msgid "No questions added yet"
-msgstr ""
+msgstr "Chưa có câu hỏi nào được thêm"
 
 #: frontend/src/components/Modals/QuizInVideo.vue:93
 msgid "No quizzes added yet."
@@ -5181,7 +5181,7 @@ msgstr ""
 
 #: frontend/src/pages/AssignmentSubmissionList.vue:67
 msgid "No submissions"
-msgstr ""
+msgstr "Không có bài nộp"
 
 #: frontend/src/pages/Notifications.vue:149
 msgid "No unread notifications"
@@ -5244,7 +5244,7 @@ msgstr "Lưu ý"
 
 #: frontend/src/pages/Lesson.vue:933
 msgid "Notes"
-msgstr ""
+msgstr "Ghi chú"
 
 #. Label of the notification_sent (Check) field in DocType 'LMS Batch'
 #. Label of the notification_sent (Check) field in DocType 'LMS Course'
@@ -5313,7 +5313,7 @@ msgstr ""
 
 #: frontend/src/components/Assignment.vue:64
 msgid "Once the moderator grades your submission, you'll find the details here."
-msgstr ""
+msgstr "Sau khi người kiểm duyệt chấm điểm bài nộp của bạn, bạn sẽ thấy chi tiết tại đây."
 
 #. Option for the 'Medium' (Select) field in DocType 'LMS Batch'
 #: frontend/src/pages/Batches/BatchForm.vue:541
@@ -5348,7 +5348,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/Courses.vue:61
 msgid "Only show courses that offer a certificate"
-msgstr ""
+msgstr "Chỉ hiển thị các khóa học có cấp chứng chỉ"
 
 #: frontend/src/components/Modals/ChapterModal.vue:223
 msgid "Only zip files are allowed"
@@ -5462,11 +5462,11 @@ msgstr ""
 
 #: frontend/src/pages/Home/StudentHome.vue:81
 msgid "Our Popular Courses"
-msgstr ""
+msgstr "Khóa học phổ biến của chúng tôi"
 
 #: frontend/src/pages/Home/StudentHome.vue:113
 msgid "Our Upcoming Batches"
-msgstr ""
+msgstr "Lớp học sắp diễn ra của chúng tôi"
 
 #. Label of the output (Data) field in DocType 'LMS Test Case Submission'
 #: lms/lms/doctype/lms_test_case_submission/lms_test_case_submission.json
@@ -5519,17 +5519,17 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:242
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Paid Certificate"
-msgstr ""
+msgstr "Chứng chỉ trả phí"
 
 #: frontend/src/components/CourseCardOverlay.vue:139
 msgid "Paid Certificate after Evaluation"
-msgstr ""
+msgstr "Chứng chỉ trả phí sau buổi đánh giá"
 
 #. Label of the paid_course (Check) field in DocType 'LMS Course'
 #: frontend/src/pages/Courses/CourseForm.vue:228
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Paid Course"
-msgstr ""
+msgstr "Khóa học trả phí"
 
 #. Option for the 'Type' (Select) field in DocType 'Job Opportunity'
 #. Option in a Select field in the job-opportunity Web Form
@@ -5569,7 +5569,7 @@ msgstr ""
 #: lms/lms/doctype/lms_quiz/lms_quiz.json
 #: lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json
 msgid "Passing Percentage"
-msgstr ""
+msgstr "Tỷ lệ phần trăm đạt"
 
 #. Label of the password (Password) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
@@ -5578,7 +5578,7 @@ msgstr "Mật khẩu"
 
 #: frontend/src/pages/Courses/CourseForm.vue:196
 msgid "Paste a YouTube link of a short video introducing the course."
-msgstr ""
+msgstr "Dán liên kết YouTube của một video ngắn giới thiệu khóa học."
 
 #. Label of the payment (Link) field in DocType 'LMS Batch Enrollment'
 #. Label of the payment (Link) field in DocType 'LMS Enrollment'
@@ -5758,7 +5758,7 @@ msgstr ""
 
 #: frontend/src/components/CourseOutline.vue:405
 msgid "Please enroll for this course to view this lesson"
-msgstr ""
+msgstr "Vui lòng đăng ký khóa học này để xem bài học"
 
 #: frontend/src/pages/Billing.vue:99
 msgid "Please ensure that the billing name you enter is correct, as it will be used on your invoice."
@@ -5766,7 +5766,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:31
 msgid "Please ensure that you complete all the questions in {0} minutes."
-msgstr ""
+msgstr "Vui lòng đảm bảo bạn hoàn thành tất cả câu hỏi trong {0} phút."
 
 #: frontend/src/pages/Billing.vue:372
 msgid "Please enter a coupon code"
@@ -5814,7 +5814,7 @@ msgstr ""
 
 #: frontend/src/components/QuizBlock.vue:5
 msgid "Please login to access the quiz."
-msgstr ""
+msgstr "Vui lòng đăng nhập để truy cập bài kiểm tra."
 
 #: lms/lms/api.py:164
 msgid "Please login to continue with payment."
@@ -5839,7 +5839,7 @@ msgstr ""
 
 #: frontend/src/components/Assignment.vue:321
 msgid "Please provide an answer or upload a file before submitting."
-msgstr ""
+msgstr "Vui lòng cung cấp câu trả lời hoặc tải lên tệp trước khi gửi."
 
 #: frontend/src/pages/Billing.vue:198
 msgid "Please provide your consent to proceed with the payment"
@@ -5851,7 +5851,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:8
 msgid "Please read the following instructions carefully before starting the quiz"
-msgstr ""
+msgstr "Vui lòng đọc kỹ các hướng dẫn sau đây trước khi bắt đầu bài kiểm tra"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:142
 msgid "Please run the code to execute the test cases."
@@ -5895,7 +5895,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:99
 msgid "Please select a payment for the purchased certificate."
-msgstr ""
+msgstr "Vui lòng chọn một thanh toán cho chứng chỉ đã mua."
 
 #: frontend/src/components/Modals/QuizInVideo.vue:186
 msgid "Please select a quiz"
@@ -5907,7 +5907,7 @@ msgstr "Vui lòng chọn khung giờ cho buổi đánh giá của bạn."
 
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:95
 msgid "Please select a student to enroll."
-msgstr ""
+msgstr "Vui lòng chọn một học viên để đăng ký."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:200
 msgid "Please select a time."
@@ -5923,7 +5923,7 @@ msgstr "Vui lòng chọn người dùng"
 
 #: frontend/src/components/Quiz.vue:763
 msgid "Please select an option"
-msgstr ""
+msgstr "Vui lòng chọn một lựa chọn"
 
 #: lms/templates/emails/job_report.html:6
 msgid "Please take appropriate action at {0}"
@@ -6024,7 +6024,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:194
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Preview Video"
-msgstr ""
+msgstr "Video xem trước"
 
 #: frontend/src/pages/Lesson.vue:26 frontend/src/pages/Lesson.vue:162
 msgid "Previous"
@@ -6040,7 +6040,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:222
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Pricing and Certification"
-msgstr ""
+msgstr "Giá và chứng nhận"
 
 #. Label of the exception_country (Table MultiSelect) field in DocType 'LMS
 #. Settings'
@@ -6112,7 +6112,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:133
 msgid "Programming Exercise Progress"
-msgstr ""
+msgstr "Tiến độ bài tập lập trình"
 
 #: frontend/src/components/Settings/BadgeForm.vue:197
 #: frontend/src/components/Settings/Badges.vue:212
@@ -6173,7 +6173,7 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseDashboard.vue:130
 #: frontend/src/pages/Programs/ProgramForm.vue:125
 msgid "Progress Summary"
-msgstr ""
+msgstr "Tóm tắt tiến độ"
 
 #: frontend/src/pages/Programs/ProgramProgressSummary.vue:5
 msgid "Progress Summary for {0}"
@@ -6217,17 +6217,17 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseForm.vue:120
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Published On"
-msgstr ""
+msgstr "Xuất bản vào"
 
 #: frontend/src/pages/Courses/CourseForm.vue:104
 msgid "Publishing Settings"
-msgstr ""
+msgstr "Thiết lập xuất bản"
 
 #. Label of the purchased_certificate (Check) field in DocType 'LMS Enrollment'
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:13
 #: lms/lms/doctype/lms_enrollment/lms_enrollment.json
 msgid "Purchased Certificate"
-msgstr ""
+msgstr "Chứng chỉ đã mua"
 
 #. Option for the 'Color' (Select) field in DocType 'LMS Course'
 #. Option for the 'Color' (Select) field in DocType 'LMS Lesson Note'
@@ -6285,20 +6285,20 @@ msgstr "Cập nhật câu hỏi thành công"
 
 #: frontend/src/components/Quiz.vue:127
 msgid "Question {0}"
-msgstr ""
+msgstr "Câu hỏi {0}"
 
 #. Label of the questions (Table) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:139 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Questions"
-msgstr ""
+msgstr "Câu hỏi"
 
 #: frontend/src/pages/QuizForm.vue:377
 msgid "Questions deleted successfully"
-msgstr ""
+msgstr "Đã xóa câu hỏi thành công"
 
 #: frontend/src/components/Quiz.vue:315
 msgid "Questions marked for review"
-msgstr ""
+msgstr "Câu hỏi đã đánh dấu để xem lại"
 
 #. Label of the quiz (Link) field in DocType 'LMS Quiz Submission'
 #. Label of a Link in the Learning Workspace
@@ -6318,24 +6318,24 @@ msgstr ""
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:82
 msgid "Quiz Progress"
-msgstr ""
+msgstr "Tiến độ bài kiểm tra"
 
 #. Label of a Link in the Learning Workspace
 #: frontend/src/components/Settings/BadgeForm.vue:194
 #: frontend/src/components/Settings/Badges.vue:210
 #: frontend/src/pages/QuizPage.vue:57 lms/lms/workspace/learning/learning.json
 msgid "Quiz Submission"
-msgstr ""
+msgstr "Bài nộp bài kiểm tra"
 
 #: frontend/src/pages/QuizSubmission.vue:131
 #: frontend/src/pages/QuizSubmissionList.vue:112
 #: frontend/src/pages/QuizSubmissionList.vue:117
 msgid "Quiz Submissions"
-msgstr ""
+msgstr "Bài nộp bài kiểm tra"
 
 #: frontend/src/components/Quiz.vue:330
 msgid "Quiz Summary"
-msgstr ""
+msgstr "Tóm tắt bài kiểm tra"
 
 #. Label of the quiz_title (Data) field in DocType 'LMS Quiz Submission'
 #: lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json
@@ -6344,7 +6344,7 @@ msgstr ""
 
 #: frontend/src/pages/Quizzes.vue:270
 msgid "Quiz created successfully"
-msgstr ""
+msgstr "Đã tạo bài kiểm tra thành công"
 
 #: lms/plugins.py:97
 msgid "Quiz is not available to Guest users. Please login to continue."
@@ -6352,7 +6352,7 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:302
 msgid "Quiz updated successfully"
-msgstr ""
+msgstr "Đã cập nhật bài kiểm tra thành công"
 
 #. Description of the 'Quiz ID' (Data) field in DocType 'Course Lesson'
 #: lms/lms/doctype/course_lesson/course_lesson.json
@@ -6367,7 +6367,7 @@ msgstr "Bài kiểm tra"
 
 #: frontend/src/pages/Quizzes.vue:293
 msgid "Quizzes deleted successfully"
-msgstr ""
+msgstr "Đã xóa bài kiểm tra thành công"
 
 #: frontend/src/components/Modals/QuizInVideo.vue:35
 msgid "Quizzes in this video"
@@ -6375,7 +6375,7 @@ msgstr "Các bài kiểm tra trong video này"
 
 #: frontend/src/pages/QuizForm.vue:111
 msgid "Randomize the order of questions for each attempt."
-msgstr ""
+msgstr "Ngẫu nhiên hóa thứ tự câu hỏi cho mỗi lượt làm."
 
 #. Label of the rating (Rating) field in DocType 'LMS Certificate Evaluation'
 #. Label of the rating (Data) field in DocType 'LMS Course'
@@ -6455,7 +6455,7 @@ msgstr "Đã đăng ký nhưng bị vô hiệu hóa"
 #: lms/lms/doctype/lms_course/lms_course.json
 #: lms/lms/doctype/related_courses/related_courses.json
 msgid "Related Courses"
-msgstr ""
+msgstr "Khóa học liên quan"
 
 #. Option for the 'Work Mode' (Select) field in DocType 'Job Opportunity'
 #: frontend/src/pages/JobForm.vue:303 frontend/src/pages/Jobs.vue:336
@@ -6505,11 +6505,11 @@ msgstr "Tiếp tục"
 
 #: frontend/src/components/Quiz.vue:101 frontend/src/components/Quiz.vue:367
 msgid "Resume Video"
-msgstr ""
+msgstr "Tiếp tục video"
 
 #: frontend/src/pages/Home/Home.vue:177
 msgid "Resume where you left off"
-msgstr ""
+msgstr "Tiếp tục từ nơi bạn đã dừng"
 
 #. Label of the review (Small Text) field in DocType 'LMS Course Review'
 #. Label of a Link in the Learning Workspace
@@ -6678,7 +6678,7 @@ msgstr ""
 #: frontend/src/pages/QuizSubmissionList.vue:97
 #: lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json
 msgid "Score"
-msgstr ""
+msgstr "Điểm số"
 
 #. Label of the score_out_of (Int) field in DocType 'LMS Quiz Submission'
 #: lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json
@@ -6706,12 +6706,12 @@ msgstr ""
 #: frontend/src/pages/Batches/Batches.vue:67
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:48
 msgid "Search by Title"
-msgstr ""
+msgstr "Tìm theo tiêu đề"
 
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:36
 #: frontend/src/pages/Courses/CourseDashboard.vue:31
 msgid "Search by name"
-msgstr ""
+msgstr "Tìm theo tên"
 
 #: frontend/src/components/CommandPalette/CommandPalette.vue:135
 msgid "Search for "
@@ -6751,7 +6751,7 @@ msgstr ""
 #: frontend/src/pages/Home/StudentHome.vue:91
 #: frontend/src/pages/Home/StudentHome.vue:123
 msgid "See all"
-msgstr ""
+msgstr "Xem tất cả"
 
 #: frontend/src/components/Settings/BadgeAssignmentForm.vue:42
 msgid "Select Date"
@@ -6771,7 +6771,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseForm.vue:92
 msgid "Select a fallback color for the course card when no image is set."
-msgstr ""
+msgstr "Chọn màu dự phòng cho thẻ khóa học khi không có ảnh."
 
 #: frontend/src/components/Modals/Question.vue:99
 msgid "Select a question"
@@ -6891,7 +6891,7 @@ msgstr ""
 #: frontend/src/pages/Courses/NewCourseModal.vue:45
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Short Introduction"
-msgstr ""
+msgstr "Giới thiệu ngắn"
 
 #: frontend/src/pages/Batches/BatchForm.vue:136
 msgid "Short description of the batch"
@@ -6906,12 +6906,12 @@ msgstr ""
 #: frontend/src/pages/QuizForm.vue:93 frontend/src/pages/Quizzes.vue:326
 #: lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Show Answers"
-msgstr ""
+msgstr "Hiển thị đáp án"
 
 #. Label of the show_submission_history (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:101 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Show Submission History"
-msgstr ""
+msgstr "Hiển thị lịch sử bài nộp"
 
 #. Label of the column_break_2 (Column Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -6936,7 +6936,7 @@ msgstr ""
 #. Label of the shuffle_questions (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:109 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Shuffle Questions"
-msgstr ""
+msgstr "Xáo trộn câu hỏi"
 
 #. Label of the sidebar_tab (Tab Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -7018,7 +7018,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:212
 msgid "Sort by"
-msgstr ""
+msgstr "Sắp xếp theo"
 
 #. Label of the source (Link) field in DocType 'LMS Batch Enrollment'
 #. Label of the source (Link) field in DocType 'LMS Payment'
@@ -7060,7 +7060,7 @@ msgstr ""
 #: frontend/src/pages/Lesson.vue:89 frontend/src/pages/SCORMChapter.vue:31
 #: lms/templates/emails/lms_course_interest.html:9
 msgid "Start Learning"
-msgstr ""
+msgstr "Bắt đầu học"
 
 #. Label of the start_time (Time) field in DocType 'Evaluator Schedule'
 #. Label of the start_time (Time) field in DocType 'LMS Batch'
@@ -7090,7 +7090,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:97
 msgid "Start the Quiz"
-msgstr ""
+msgstr "Bắt đầu bài kiểm tra"
 
 #. Option for the 'Company Type' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -7163,15 +7163,15 @@ msgstr ""
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:5
 msgid "Student Progress"
-msgstr ""
+msgstr "Tiến độ học viên"
 
 #: frontend/src/components/CourseReviews.vue:11
 msgid "Student Reviews"
-msgstr ""
+msgstr "Nhận xét của học viên"
 
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:84
 msgid "Student enrolled successfully"
-msgstr ""
+msgstr "Đã đăng ký học viên thành công"
 
 #: lms/lms/doctype/lms_enrollment/lms_enrollment.py:35
 msgid "Student is already enrolled in this course."
@@ -7203,7 +7203,7 @@ msgstr ""
 
 #: frontend/src/components/Assignment.vue:32
 msgid "Submission"
-msgstr ""
+msgstr "Bài nộp"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:27
 msgid "Submission Type"
@@ -7212,7 +7212,7 @@ msgstr "Loại bài nộp"
 #: frontend/src/components/Assignment.vue:13
 #: frontend/src/components/Assignment.vue:16
 msgid "Submission by"
-msgstr ""
+msgstr "Nộp bởi"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:368
 msgid "Submission saved!"
@@ -7220,7 +7220,7 @@ msgstr ""
 
 #: frontend/src/pages/AssignmentSubmission.vue:62
 msgid "Submissions"
-msgstr ""
+msgstr "Bài nộp"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:259
 msgid "Submissions deleted successfully"
@@ -7372,7 +7372,7 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:23
 msgid "Test Quiz"
-msgstr ""
+msgstr "Kiểm thử bài kiểm tra"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseForm.vue:87
 msgid "Test this Exercise"
@@ -7466,7 +7466,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/AdminHome.vue:178
 msgid "There are no courses currently. Create your first course to get started!"
-msgstr ""
+msgstr "Hiện chưa có khóa học nào. Tạo khóa học đầu tiên của bạn để bắt đầu!"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:100
 #: lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.py:74
@@ -7475,7 +7475,7 @@ msgstr ""
 
 #: frontend/src/pages/AssignmentSubmissionList.vue:70
 msgid "There are no submissions for this assignment."
-msgstr ""
+msgstr "Không có bài nộp nào cho bài tập này."
 
 #: frontend/src/components/Layouts/EmptyStateLayout.vue:42
 msgid "There are no {0} currently. Keep an eye out, fresh learning experiences are on the way!"
@@ -7512,7 +7512,7 @@ msgstr ""
 #: frontend/src/pages/Home/AdminHome.vue:94
 #: frontend/src/pages/Home/StudentHome.vue:59
 msgid "This class has ended"
-msgstr ""
+msgstr "Buổi học đã kết thúc"
 
 #: lms/lms/utils.py:1944
 msgid "This coupon has expired."
@@ -7528,7 +7528,7 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:95
 msgid "This course has:"
-msgstr ""
+msgstr "Khóa học này có:"
 
 #: lms/lms/utils.py:1875
 msgid "This course is free."
@@ -7548,11 +7548,11 @@ msgstr ""
 
 #: frontend/src/pages/Lesson.vue:74
 msgid "This lesson is locked"
-msgstr ""
+msgstr "Bài học này đã khóa"
 
 #: frontend/src/pages/Lesson.vue:79
 msgid "This lesson is not available for preview. Please enroll in the course to access it."
-msgstr ""
+msgstr "Bài học này không có sẵn để xem trước. Vui lòng đăng ký khóa học để truy cập."
 
 #: lms/lms/widgets/NoPreviewModal.html:16
 msgid "This lesson is not available for preview. Please join the course to access it."
@@ -7564,7 +7564,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:26
 msgid "This quiz consists of {0} questions."
-msgstr ""
+msgstr "Bài kiểm tra này gồm {0} câu hỏi."
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:91
 #: frontend/src/components/Sidebar/AppSidebar.vue:177
@@ -7748,11 +7748,11 @@ msgstr "Tổng cộng"
 #: frontend/src/pages/QuizForm.vue:73 frontend/src/pages/Quizzes.vue:305
 #: lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Total Marks"
-msgstr ""
+msgstr "Tổng điểm"
 
 #: frontend/src/components/Quiz.vue:414
 msgid "Total Questions"
-msgstr ""
+msgstr "Tổng số câu hỏi"
 
 #: lms/lms/web_template/lms_statistics/lms_statistics.html:14
 #: lms/templates/statistics.html:12
@@ -7837,7 +7837,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:885
 msgid "Type your answer"
-msgstr ""
+msgstr "Nhập câu trả lời của bạn"
 
 #. Option for the 'Grade Type' (Select) field in DocType 'Education Detail'
 #: lms/lms/doctype/education_detail/education_detail.json
@@ -7870,7 +7870,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:430
 msgid "Unattempted Questions"
-msgstr ""
+msgstr "Câu hỏi chưa làm"
 
 #. Label of the unavailability_section (Section Break) field in DocType 'Course
 #. Evaluator'
@@ -7894,7 +7894,7 @@ msgstr ""
 #: frontend/src/pages/Batches/Batches.vue:327
 #: frontend/src/pages/Courses/Courses.vue:336
 msgid "Unpublished"
-msgstr ""
+msgstr "Chưa xuất bản"
 
 #: lms/lms/course_import_export.py:774
 msgid "Unsafe file path detected"
@@ -7923,21 +7923,21 @@ msgstr ""
 #: lms/lms/doctype/lms_certificate_request/lms_certificate_request.json
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Upcoming"
-msgstr ""
+msgstr "Sắp diễn ra"
 
 #: frontend/src/pages/Home/AdminHome.vue:141
 msgid "Upcoming Batches"
-msgstr ""
+msgstr "Lớp học sắp diễn ra"
 
 #: frontend/src/components/UpcomingEvaluations.vue:5
 #: frontend/src/pages/Home/AdminHome.vue:6 lms/templates/upcoming_evals.html:3
 msgid "Upcoming Evaluations"
-msgstr ""
+msgstr "Buổi đánh giá sắp diễn ra"
 
 #: frontend/src/pages/Home/AdminHome.vue:42
 #: frontend/src/pages/Home/StudentHome.vue:7
 msgid "Upcoming Live Classes"
-msgstr ""
+msgstr "Buổi học trực tiếp sắp diễn ra"
 
 #: frontend/src/components/Settings/BrandSettings.vue:25
 #: frontend/src/components/Settings/SettingDetails.vue:21
@@ -7952,7 +7952,7 @@ msgstr "Cập nhật mật khẩu"
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:326
 #: frontend/src/pages/Quizzes.vue:333
 msgid "Updated On"
-msgstr ""
+msgstr "Cập nhật vào"
 
 #: frontend/src/components/Controls/Uploader.vue:24
 msgid "Upload"
@@ -7960,11 +7960,11 @@ msgstr "Tải lên"
 
 #: frontend/src/components/Assignment.vue:72
 msgid "Upload Assignment"
-msgstr ""
+msgstr "Tải lên bài tập"
 
 #: frontend/src/components/Assignment.vue:96
 msgid "Upload File"
-msgstr ""
+msgstr "Tải lên tệp"
 
 #: frontend/src/components/Controls/Uploader.vue:24
 msgid "Uploading"
@@ -7972,7 +7972,7 @@ msgstr "Đang tải lên"
 
 #: frontend/src/components/Assignment.vue:95
 msgid "Uploading {0}%"
-msgstr ""
+msgstr "Đang tải lên {0}%"
 
 #. Label of the usage_limit (Int) field in DocType 'LMS Coupon'
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:59
@@ -8158,7 +8158,7 @@ msgstr ""
 
 #: frontend/src/components/LessonHelp.vue:6
 msgid "What are Instructor Notes?"
-msgstr ""
+msgstr "Ghi chú của giảng viên là gì?"
 
 #: frontend/src/pages/PersonaForm.vue:28
 msgid "What best describes your role?"
@@ -8215,7 +8215,7 @@ msgstr "Viết đánh giá"
 
 #: frontend/src/components/Assignment.vue:137
 msgid "Write your answer here"
-msgstr ""
+msgstr "Viết câu trả lời của bạn ở đây"
 
 #. Option for the 'Color' (Select) field in DocType 'LMS Course'
 #. Option for the 'Color' (Select) field in DocType 'LMS Lesson Note'
@@ -8230,7 +8230,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseCertification.vue:14
 msgid "You are already certified for this course. Click on the card below to open your certificate."
-msgstr ""
+msgstr "Bạn đã được chứng nhận cho khóa học này. Nhấp vào thẻ bên dưới để mở chứng chỉ của bạn."
 
 #: lms/lms/api.py:184
 msgid "You are already enrolled for this batch."
@@ -8287,11 +8287,11 @@ msgstr "Bạn cũng có thể sao chép-dán liên kết sau vào trình duyệt
 
 #: frontend/src/components/Quiz.vue:52
 msgid "You can attempt this quiz {0}."
-msgstr ""
+msgstr "Bạn có thể làm bài kiểm tra này {0}."
 
 #: frontend/src/pages/Home/Streak.vue:16
 msgid "You can do better,"
-msgstr ""
+msgstr "Bạn có thể làm tốt hơn,"
 
 #: lms/templates/emails/job_application.html:6
 msgid "You can find their resume attached to this email."
@@ -8299,7 +8299,7 @@ msgstr ""
 
 #: frontend/src/components/Assignment.vue:76
 msgid "You can only upload {0} files"
-msgstr ""
+msgstr "Bạn chỉ có thể tải lên {0} tệp"
 
 #: frontend/src/pages/ProfileEvaluator.vue:14
 msgid "You cannot change the availability when the site is being updated."
@@ -8428,7 +8428,7 @@ msgstr ""
 #: frontend/src/components/Quiz.vue:344
 #, python-format
 msgid "You got {0}% correct answers with a score of {1} out of {2}"
-msgstr ""
+msgstr "Bạn đã trả lời đúng {0}% câu hỏi với điểm số {1} trên {2}"
 
 #: lms/templates/emails/live_class_reminder.html:6
 msgid "You have a live class scheduled tomorrow. Please be prepared and be on time for the session."
@@ -8440,7 +8440,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:112
 msgid "You have already exceeded the maximum number of attempts allowed for this quiz."
-msgstr ""
+msgstr "Bạn đã vượt quá số lượt làm bài tối đa được phép cho bài kiểm tra này."
 
 #: lms/lms/api.py:208
 msgid "You have already purchased the certificate for this course."
@@ -8460,7 +8460,7 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:201
 msgid "You have been enrolled in this course"
-msgstr ""
+msgstr "Bạn đã được đăng ký vào khóa học này"
 
 #: lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.py:30
 msgid "You have exceeded the maximum number of attempts ({0}) for this quiz"
@@ -8484,15 +8484,15 @@ msgstr ""
 
 #: frontend/src/pages/Home/Home.vue:137 frontend/src/pages/Home/Home.vue:160
 msgid "You have {0} upcoming {1} and {2} {3} scheduled."
-msgstr ""
+msgstr "Bạn có {0} {1} sắp diễn ra và {2} {3} đã được lên lịch."
 
 #: frontend/src/pages/Home/Home.vue:144 frontend/src/pages/Home/Home.vue:167
 msgid "You have {0} upcoming {1}."
-msgstr ""
+msgstr "Bạn có {0} {1} sắp diễn ra."
 
 #: frontend/src/pages/Home/Home.vue:149 frontend/src/pages/Home/Home.vue:172
 msgid "You have {0} {1} scheduled."
-msgstr ""
+msgstr "Bạn có {0} {1} đã được lên lịch."
 
 #: lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.py:31
 msgid "You must be a Moderator or Batch Evaluator to enroll users in a batch."
@@ -8512,20 +8512,20 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:185
 msgid "You need to login first to enroll for this course"
-msgstr ""
+msgstr "Bạn cần đăng nhập trước để đăng ký khóa học này"
 
 #: frontend/src/pages/Home/Streak.vue:19
 msgid "You rock,"
-msgstr ""
+msgstr "Bạn thật tuyệt,"
 
 #: frontend/src/components/Quiz.vue:15
 msgid "You will have to complete the quiz to continue the video"
-msgstr ""
+msgstr "Bạn sẽ phải hoàn thành bài kiểm tra để tiếp tục video"
 
 #: frontend/src/components/Quiz.vue:45
 #, python-format
 msgid "You will have to get {0}% correct answers in order to pass the quiz."
-msgstr ""
+msgstr "Bạn sẽ phải trả lời đúng {0}% câu hỏi để vượt qua bài kiểm tra."
 
 #: frontend/src/pages/Notifications.vue:156
 msgid "You're all caught up! Check back later for updates."
@@ -8537,7 +8537,7 @@ msgstr ""
 
 #: frontend/src/components/Assignment.vue:62
 msgid "You've successfully submitted the assignment."
-msgstr ""
+msgstr "Bạn đã gửi bài tập thành công."
 
 #. Label of the youtube (Data) field in DocType 'Course Lesson'
 #: lms/lms/doctype/course_lesson/course_lesson.json
@@ -8596,7 +8596,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:54
 msgid "Your learning streak counts the number of days in a row you’ve kept up your learning, whether it’s a lesson, quiz, or assignment. Don’t worry, weekends don’t break your streak."
-msgstr ""
+msgstr "Chuỗi học tập của bạn tính số ngày liên tiếp bạn duy trì việc học, dù là bài học, bài kiểm tra hay bài tập. Đừng lo, cuối tuần không làm gián đoạn chuỗi của bạn."
 
 #: lms/templates/emails/mentor_request_status_update_email.html:4
 msgid "Your request to join us as a mentor for the course"
@@ -8604,11 +8604,11 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:337
 msgid "Your submission has been successfully saved. The instructor will review and grade it shortly, and you'll be notified of your final result."
-msgstr ""
+msgstr "Bài nộp của bạn đã được lưu thành công. Giảng viên sẽ xem xét và chấm điểm trong thời gian sớm nhất, và bạn sẽ được thông báo về kết quả cuối cùng."
 
 #: frontend/src/pages/Lesson.vue:8
 msgid "Zen Mode"
-msgstr ""
+msgstr "Chế độ thiền"
 
 #. Option for the 'Conferencing Provider' (Select) field in DocType 'LMS Batch'
 #. Option for the 'Conferencing Provider' (Select) field in DocType 'LMS Live
@@ -8675,7 +8675,7 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:121
 msgid "average rating"
-msgstr ""
+msgstr "đánh giá trung bình"
 
 #: lms/templates/emails/payment_reminder.html:4
 msgid "but didn’t complete your payment"
@@ -8699,7 +8699,7 @@ msgstr ""
 #: frontend/src/pages/Programs/ProgramDetail.vue:14
 #: frontend/src/pages/Programs/StudentPrograms.vue:44
 msgid "completed"
-msgstr ""
+msgstr "đã hoàn thành"
 
 #: frontend/src/pages/Programs/StudentPrograms.vue:29
 msgid "course"
@@ -8711,7 +8711,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:24
 msgid "day streak"
-msgstr ""
+msgstr "chuỗi ngày"
 
 #: frontend/src/pages/Home/Streak.vue:37 frontend/src/pages/Home/Streak.vue:45
 msgid "days"
@@ -8719,15 +8719,15 @@ msgstr "ngày"
 
 #: frontend/src/pages/Courses/CourseForm.vue:290
 msgid "e.g. IST, UTC, GMT..."
-msgstr ""
+msgstr "ví dụ: IST, UTC, GMT..."
 
 #: frontend/src/components/CourseCardOverlay.vue:111
 msgid "enrolled student"
-msgstr ""
+msgstr "học viên đã đăng ký"
 
 #: frontend/src/components/CourseCardOverlay.vue:110
 msgid "enrolled students"
-msgstr ""
+msgstr "học viên đã đăng ký"
 
 #: frontend/src/pages/Home/Home.vue:135 frontend/src/pages/Home/Home.vue:158
 msgid "evaluation"
@@ -8735,7 +8735,7 @@ msgstr "đánh giá"
 
 #: frontend/src/pages/Home/Home.vue:135 frontend/src/pages/Home/Home.vue:158
 msgid "evaluations"
-msgstr ""
+msgstr "buổi đánh giá"
 
 #: lms/templates/emails/mentor_request_status_update_email.html:4
 msgid "has been"
@@ -8756,15 +8756,15 @@ msgstr "bài học"
 #: frontend/src/components/CourseCardOverlay.vue:101
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:65
 msgid "lessons"
-msgstr ""
+msgstr "bài học"
 
 #: frontend/src/pages/Home/Home.vue:133 frontend/src/pages/Home/Home.vue:157
 msgid "live class"
-msgstr ""
+msgstr "buổi học trực tiếp"
 
 #: frontend/src/pages/Home/Home.vue:133 frontend/src/pages/Home/Home.vue:157
 msgid "live classes"
-msgstr ""
+msgstr "buổi học trực tiếp"
 
 #: frontend/src/pages/Search/Search.vue:38
 msgid "match"
@@ -8802,7 +8802,7 @@ msgstr "các thông tin khác"
 
 #: frontend/src/pages/QuizForm.vue:336
 msgid "question_detail"
-msgstr ""
+msgstr "chi tiết câu hỏi"
 
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:80
 msgid "rating"
@@ -8847,7 +8847,7 @@ msgstr ""
 
 #: frontend/src/pages/Assignments.vue:30
 msgid "{0} Assignments"
-msgstr ""
+msgstr "{0} Nhiệm vụ được giao"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:43
 msgid "{0} Exercises"
@@ -8855,7 +8855,7 @@ msgstr ""
 
 #: frontend/src/pages/Quizzes.vue:21
 msgid "{0} Quizzes"
-msgstr ""
+msgstr "{0} Bài kiểm tra"
 
 #: lms/lms/api.py:843 lms/lms/api.py:851
 msgid "{0} Settings not found"

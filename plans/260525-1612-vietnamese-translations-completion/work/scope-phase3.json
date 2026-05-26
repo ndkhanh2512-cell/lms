@@ -1,0 +1,2260 @@
+[
+  {
+    "msgid": " you are on a",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Streak.vue:21"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "A one line introduction to the course that appears on the course card",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:166"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "About the Course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:158"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add Lesson",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:163"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add Question",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:205"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Add a keyword and press enter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:71"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "All Courses",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/Courses.vue:37",
+      "lms/lms/widgets/BreadCrumb.html:3"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Allow Self Enrollment",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/BatchForm.vue:50",
+      "frontend/src/pages/Courses/CourseForm.vue:147",
+      "lms/lms/doctype/lms_batch/lms_batch.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Allow users to enroll in this course on their own.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:149"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Allow users to view their past quiz attempts.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:102"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Amount",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Settings/Transactions/TransactionDetails.vue:99",
+      "frontend/src/components/Settings/Transactions/TransactionList.vue:196",
+      "frontend/src/pages/Batches/BatchForm.vue:239",
+      "frontend/src/pages/Courses/CourseForm.vue:257",
+      "lms/lms/doctype/lms_batch/lms_batch.json:None",
+      "lms/lms/doctype/lms_course/lms_course.json:None",
+      "lms/lms/doctype/lms_payment/lms_payment.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Answer",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizSubmission.vue:60",
+      "lms/lms/doctype/lms_assignment/lms_assignment.json:None",
+      "lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Are you sure you want to submit the quiz?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:395"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Ask a question to get help from the community.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Lesson.vue:289"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Assignment Progress",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/StudentCourseProgress.vue:111"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Assignment Submissions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/AssignmentSubmissionList.vue:223"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Assignment submitted successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:329"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Assignments deleted successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Assignments.vue:302"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Attempted Questions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:422"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Average Completion Rate",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseDashboard.vue:9"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Average Rating",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCard.vue:71",
+      "frontend/src/pages/Courses/CourseDashboard.vue:13",
+      "frontend/src/pages/Courses/CourseOverview.vue:14",
+      "frontend/src/pages/Programs/ProgramEnrollment.vue:76"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Buy this course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:54"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Certificate of Completion",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:130"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Changes saved successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:366"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Chapter deleted successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:376"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Chapter moved successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:309"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Chapters",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:325",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Charge a fee for course access.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:229"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Charge a fee for the certificate.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:243"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Choose all answers that apply",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:883"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Choose one answer",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:884"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Comma separated keywords for SEO",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:314"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Comments by Evaluator",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:160"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Community",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Lesson.vue:944"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Completion Certificate",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:235",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Completion Rate",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseDashboard.vue:415"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Contact the Administrator to enroll for this course.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Lesson.vue:97"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Continue Learning",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:33"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Correct",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:203"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course Description",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:175",
+      "frontend/src/pages/Courses/NewCourseModal.vue:52"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course Image",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:83",
+      "frontend/src/pages/Courses/NewCourseModal.vue:38"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course Outline",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseOverview.vue:70"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course Progress",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/StudentCourseProgress.vue:32"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course created successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/NewCourseModal.vue:154"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course deleted successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:517"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Course updated successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:482"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Create Course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/AdminHome.vue:191"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Create Lesson",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/LessonForm.vue:509"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Create a Quiz",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Quizzes.vue:120"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Current Streak",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Streak.vue:34"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Deduct marks for incorrect answers.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:125"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Delete Chapter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:70"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Delete Course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:524"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Delete this chapter?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:382"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Delete this lesson?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:315"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Deleting the course will also delete all its chapters and lessons. Are you sure you want to delete this course?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:525"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Deleting this chapter will also delete all its lessons and permanently remove it from the course. This action cannot be undone. Are you sure you want to continue?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:383"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Deleting this lesson will permanently remove it from the course. This action cannot be undone. Are you sure you want to continue?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:316"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Device",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseImportModal.vue:33"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Display correct answers after each question is attempted.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:95"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Do not refresh the page or close this window. If you do, the quiz will be submitted automatically.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:19"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Drag and drop a ZIP file, or upload from your",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseImportModal.vue:28"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Edit Lesson",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/LessonForm.vue:508"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Edit Question",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:205"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Enable Negative Marking",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:124",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Ended",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/components/LiveClass.vue:97",
+      "frontend/src/pages/Home/AdminHome.vue:100",
+      "frontend/src/pages/Home/StudentHome.vue:65"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Enroll",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/components/AdminBatchDashboard.vue:43",
+      "frontend/src/pages/Courses/CourseDashboard.vue:38",
+      "frontend/src/pages/Courses/CourseEnrollmentModal.vue:47"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Enrolled On",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/components/AdminBatchDashboard.vue:265",
+      "frontend/src/pages/Courses/CourseDashboard.vue:399"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Enrolled Students",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCard.vue:62",
+      "frontend/src/pages/Courses/CourseOverview.vue:27",
+      "frontend/src/pages/Programs/ProgramEnrollment.vue:69"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Enter a URL",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:127"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Error creating quiz: {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Quizzes.vue:282"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Export",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseDetail.vue:206"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Featured",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCard.vue:25",
+      "frontend/src/components/CourseCard.vue:79",
+      "frontend/src/pages/Courses/CourseForm.vue:140",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Feel free to make edits to your submission if needed.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:68"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "File upload failed. Please try again.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseImportModal.vue:150",
+      "frontend/src/pages/Courses/CourseImportModal.vue:166"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Get Certificate",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:90"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Get Certified",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CertificationLinks.vue:34",
+      "frontend/src/components/CertificationLinks.vue:50",
+      "frontend/src/components/CourseCard.vue:126",
+      "frontend/src/pages/CertifiedParticipants.vue:12"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Grade",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:176",
+      "lms/lms/doctype/education_detail/education_detail.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Grading",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:171"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Highlight the course on the homepage.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:141"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "If enabled, the lesson will also be accessible to users who are not enrolled in the course.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/LessonForm.vue:30"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "If you answer incorrectly, {0} {1} will be deducted from your score for each incorrect answer.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:61"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "If you fail to do so, the quiz will be automatically submitted when the timer ends.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:38"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Import Course from ZIP",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseImportModal.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Import via Data Import Tool",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/Courses.vue:353"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Import via ZIP",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/Courses.vue:363"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Include in Preview",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/LessonForm.vue:28"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Incorrect",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:208"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Instructor Notes",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Lesson.vue:233",
+      "frontend/src/pages/LessonForm.vue:47",
+      "lms/lms/doctype/course_lesson/course_lesson.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Instructor Notes are private notes that only instructors can see. They can be used to provide additional context or guidance for the lesson.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/LessonHelp.vue:11"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Issue a certificate on course completion.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:236"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Issued On",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Settings/BadgeAssignmentForm.vue:37",
+      "frontend/src/components/Settings/BadgeAssignments.vue:185",
+      "frontend/src/pages/Courses/CourseCertification.vue:27",
+      "lms/lms/doctype/lms_badge_assignment/lms_badge_assignment.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Keep going,",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Streak.vue:18"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Learning Consistency",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Streak.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Lesson Completion",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseDashboard.vue:207"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Lesson Index",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseDashboard.vue:408"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Lesson Progress",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/StudentCourseProgress.vue:45"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Lesson created successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/LessonForm.vue:434"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Lesson deleted successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:280"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Lesson moved successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:295"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Lesson updated successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/LessonForm.vue:458"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Lessons",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCard.vue:53",
+      "frontend/src/pages/Courses/CourseDashboard.vue:20",
+      "frontend/src/pages/Programs/ProgramEnrollment.vue:62",
+      "lms/lms/doctype/course_chapter/course_chapter.json:None",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Limit Questions To",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:117",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Live",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/Courses.vue:318"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Longest Streak",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Streak.vue:42"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Make the course visible to all users.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:115"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Mark",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:132"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Mark for review",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:228"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Mark the course as upcoming but not yet open for enrollment.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:131"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Marks out of",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizSubmission.vue:67",
+      "lms/lms/doctype/lms_quiz_result/lms_quiz_result.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Marks to Deduct",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:130"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Max Attempts",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Quizzes.vue:319",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Maximum Attempts",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:62"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Meta Description",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/BatchForm.vue:258",
+      "frontend/src/pages/Courses/CourseForm.vue:304",
+      "lms/lms/doctype/lms_settings/lms_settings.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Meta Keywords",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/BatchForm.vue:264",
+      "frontend/src/pages/Courses/CourseForm.vue:311",
+      "lms/lms/doctype/lms_settings/lms_settings.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Meta Tags",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/BatchForm.vue:253",
+      "frontend/src/pages/Courses/CourseForm.vue:299"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "My Batches",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/StudentHome.vue:112"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "My Courses",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/StudentHome.vue:80"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "New Course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/Courses.vue:346",
+      "frontend/src/pages/Courses/NewCourseModal.vue:5",
+      "frontend/src/pages/Notifications.vue:91",
+      "lms/www/_lms.py:102"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "New Lesson",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/LessonForm.vue:526"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "New Question",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:145"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "No Quiz submissions found",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:386"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "No courses created",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/AdminHome.vue:172",
+      "lms/templates/courses_created.html:14"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "No questions added yet",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:196"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "No submissions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/AssignmentSubmissionList.vue:67"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Notes",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Lesson.vue:933"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Once the moderator grades your submission, you'll find the details here.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:64"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Only show courses that offer a certificate",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/Courses.vue:61"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Our Popular Courses",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/StudentHome.vue:81"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Our Upcoming Batches",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/StudentHome.vue:113"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Paid Certificate",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:242",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Paid Certificate after Evaluation",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:139"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Paid Course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:228",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Passing Percentage",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:78",
+      "frontend/src/pages/Quizzes.vue:312",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None",
+      "lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Paste a YouTube link of a short video introducing the course.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:196"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please enroll for this course to view this lesson",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseOutline.vue:405"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please ensure that you complete all the questions in {0} minutes.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:31"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please login to access the quiz.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/QuizBlock.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please provide an answer or upload a file before submitting.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:321"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please read the following instructions carefully before starting the quiz",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:8"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a payment for the purchased certificate.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseEnrollmentModal.vue:99"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select a student to enroll.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseEnrollmentModal.vue:95"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Please select an option",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:763"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Preview Video",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/BatchForm.vue:180",
+      "frontend/src/pages/Courses/CourseForm.vue:194",
+      "lms/lms/doctype/lms_batch/lms_batch.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Pricing and Certification",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:222",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Programming Exercise Progress",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/StudentCourseProgress.vue:133"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Progress Summary",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseDashboard.vue:130",
+      "frontend/src/pages/Programs/ProgramForm.vue:125"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Published On",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:120",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Publishing Settings",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:104"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Purchased Certificate",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseEnrollmentModal.vue:13",
+      "lms/lms/doctype/lms_enrollment/lms_enrollment.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Question {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:127"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Questions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:139",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Questions deleted successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:377"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Questions marked for review",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:315"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Quiz Progress",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/StudentCourseProgress.vue:82"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Quiz Submission",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Settings/BadgeForm.vue:194",
+      "frontend/src/components/Settings/Badges.vue:210",
+      "frontend/src/pages/QuizPage.vue:57",
+      "lms/lms/workspace/learning/learning.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Quiz Submissions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizSubmission.vue:131",
+      "frontend/src/pages/QuizSubmissionList.vue:112",
+      "frontend/src/pages/QuizSubmissionList.vue:117"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Quiz Summary",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:330"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Quiz created successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Quizzes.vue:270"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Quiz updated successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:302"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Quizzes deleted successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Quizzes.vue:293"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Randomize the order of questions for each attempt.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:111"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Related Courses",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/RelatedCourses.vue:5",
+      "frontend/src/pages/Courses/CourseForm.vue:206",
+      "lms/lms/doctype/lms_course/lms_course.json:None",
+      "lms/lms/doctype/related_courses/related_courses.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Resume Video",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:101",
+      "frontend/src/components/Quiz.vue:367"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Resume where you left off",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Home.vue:177"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Score",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/StudentCourseProgress.vue:85",
+      "frontend/src/pages/QuizSubmission.vue:39",
+      "frontend/src/pages/QuizSubmissionList.vue:97",
+      "lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Search by Title",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Assignments.vue:36",
+      "frontend/src/pages/Batches/Batches.vue:67",
+      "frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:48"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Search by name",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/components/AdminBatchDashboard.vue:36",
+      "frontend/src/pages/Courses/CourseDashboard.vue:31"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "See all",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/AdminHome.vue:122",
+      "frontend/src/pages/Home/AdminHome.vue:150",
+      "frontend/src/pages/Home/StudentHome.vue:91",
+      "frontend/src/pages/Home/StudentHome.vue:123"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Select a fallback color for the course card when no image is set.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:92"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Short Introduction",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:164",
+      "frontend/src/pages/Courses/NewCourseModal.vue:45",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Show Answers",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:93",
+      "frontend/src/pages/Quizzes.vue:326",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Show Submission History",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:101",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Shuffle Questions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:109",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Sort by",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseDashboard.vue:212"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Start Learning",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:77",
+      "frontend/src/pages/Lesson.vue:89",
+      "frontend/src/pages/SCORMChapter.vue:31",
+      "lms/templates/emails/lms_course_interest.html:9"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Start the Quiz",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:97"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Student Progress",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/StudentCourseProgress.vue:5"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Student Reviews",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseReviews.vue:11"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Student enrolled successfully",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseEnrollmentModal.vue:84"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Submission",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:32"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Submission by",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:13",
+      "frontend/src/components/Assignment.vue:16"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Submissions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/AssignmentSubmission.vue:62"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Test Quiz",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:23"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "There are no courses currently. Create your first course to get started!",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/AdminHome.vue:178"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "There are no submissions for this assignment.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/AssignmentSubmissionList.vue:70"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "This class has ended",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/components/LiveClass.vue:91",
+      "frontend/src/pages/Home/AdminHome.vue:94",
+      "frontend/src/pages/Home/StudentHome.vue:59"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "This course has:",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:95"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "This lesson is locked",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Lesson.vue:74"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "This lesson is not available for preview. Please enroll in the course to access it.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Lesson.vue:79"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "This quiz consists of {0} questions.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:26"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Total Marks",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:73",
+      "frontend/src/pages/Quizzes.vue:305",
+      "lms/lms/doctype/lms_quiz/lms_quiz.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Total Questions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:414"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Type your answer",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:885"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Unattempted Questions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:430"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Unpublished",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/Batches.vue:327",
+      "frontend/src/pages/Courses/Courses.vue:336"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Upcoming",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Batches/Batches.vue:325",
+      "frontend/src/pages/Courses/CourseForm.vue:129",
+      "frontend/src/pages/Courses/Courses.vue:326",
+      "lms/lms/doctype/lms_certificate_request/lms_certificate_request.json:None",
+      "lms/lms/doctype/lms_course/lms_course.json:None"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Upcoming Batches",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/AdminHome.vue:141"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Upcoming Evaluations",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/UpcomingEvaluations.vue:5",
+      "frontend/src/pages/Home/AdminHome.vue:6",
+      "lms/templates/upcoming_evals.html:3"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Upcoming Live Classes",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/AdminHome.vue:42",
+      "frontend/src/pages/Home/StudentHome.vue:7"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Updated On",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Assignments.vue:278",
+      "frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:326",
+      "frontend/src/pages/Quizzes.vue:333"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Upload Assignment",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:72"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Upload File",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:96"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Uploading {0}%",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:95"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "What are Instructor Notes?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/LessonHelp.vue:6"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Write your answer here",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:137"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You are already certified for this course. Click on the card below to open your certificate.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseCertification.vue:14"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You can attempt this quiz {0}.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:52"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You can do better,",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Streak.vue:16"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You can only upload {0} files",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:76"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You got {0}% correct answers with a score of {1} out of {2}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:344"
+    ],
+    "flags": [
+      "python-format"
+    ]
+  },
+  {
+    "msgid": "You have already exceeded the maximum number of attempts allowed for this quiz.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:112"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You have been enrolled in this course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:201"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You have {0} upcoming {1} and {2} {3} scheduled.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Home.vue:137",
+      "frontend/src/pages/Home/Home.vue:160"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You have {0} upcoming {1}.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Home.vue:144",
+      "frontend/src/pages/Home/Home.vue:167"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You have {0} {1} scheduled.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Home.vue:149",
+      "frontend/src/pages/Home/Home.vue:172"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You need to login first to enroll for this course",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:185"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You rock,",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Streak.vue:19"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You will have to complete the quiz to continue the video",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:15"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "You will have to get {0}% correct answers in order to pass the quiz.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:45"
+    ],
+    "flags": [
+      "python-format"
+    ]
+  },
+  {
+    "msgid": "You've successfully submitted the assignment.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Assignment.vue:62"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Your learning streak counts the number of days in a row you’ve kept up your learning, whether it’s a lesson, quiz, or assignment. Don’t worry, weekends don’t break your streak.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Streak.vue:54"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Your submission has been successfully saved. The instructor will review and grade it shortly, and you'll be notified of your final result.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/Quiz.vue:337"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "Zen Mode",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Lesson.vue:8"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "average rating",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:121"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "completed",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCard.vue:102",
+      "frontend/src/pages/Courses/StudentCourseProgress.vue:29",
+      "frontend/src/pages/Lesson.vue:143",
+      "frontend/src/pages/Lesson.vue:304",
+      "frontend/src/pages/Programs/ProgramDetail.vue:14",
+      "frontend/src/pages/Programs/StudentPrograms.vue:44"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "day streak",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Streak.vue:24"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "e.g. IST, UTC, GMT...",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Courses/CourseForm.vue:290"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "enrolled student",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:111"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "enrolled students",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:110"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "evaluations",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Home.vue:135",
+      "frontend/src/pages/Home/Home.vue:158"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "lessons",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/components/CourseCardOverlay.vue:101",
+      "frontend/src/pages/Programs/ProgramEnrollment.vue:65"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "live class",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Home.vue:133",
+      "frontend/src/pages/Home/Home.vue:157"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "live classes",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Home/Home.vue:133",
+      "frontend/src/pages/Home/Home.vue:157"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "question_detail",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/QuizForm.vue:336"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "{0} Assignments",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Assignments.vue:30"
+    ],
+    "flags": []
+  },
+  {
+    "msgid": "{0} Quizzes",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "occurrences": [
+      "frontend/src/pages/Quizzes.vue:21"
+    ],
+    "flags": []
+  }
+]

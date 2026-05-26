@@ -33,7 +33,7 @@ Hoàn tất Vietnamese i18n end-to-end:
 |---|---|---|---|
 | 1 | Foundation: default EN + glossary + .po sync | [phase-01-foundation-default-en.md](phase-01-foundation-default-en.md) | completed |
 | 2 | Navigation shell + Modals translations | [phase-02-navigation-shell-translations.md](phase-02-navigation-shell-translations.md) | completed |
-| 3 | Learning content translations | [phase-03-learning-content-translations.md](phase-03-learning-content-translations.md) | pending |
+| 3 | Learning content translations | [phase-03-learning-content-translations.md](phase-03-learning-content-translations.md) | completed |
 | 4 | Batches & community translations | [phase-04-batches-community-translations.md](phase-04-batches-community-translations.md) | pending |
 | 5 | Settings + DocType labels + emails translations | [phase-05-settings-doctype-emails-translations.md](phase-05-settings-doctype-emails-translations.md) | pending |
 | 6 | Frontend hardcoded strings audit + wrap | [phase-06-frontend-hardcoded-audit.md](phase-06-frontend-hardcoded-audit.md) | pending |
